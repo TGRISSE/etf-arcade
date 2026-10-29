@@ -1,0 +1,31 @@
+# Default project (the repository root): data/universe.csv, var/prices.csv. Prices are whatever var/prices.csv
+# holds (sample = SYNTHETIC). See docs/reference/DATA.md section 2b for every key.
+[project]
+title = "ETF ARCADE"
+subtitle = ""
+currency = "USD"          # label only: closes stay in each fund's listing currency, no FX conversion
+universe_label = "ETFs"
+
+# Benchmarks: an ordered list, the first is the default; the page has a switch. SPY and AGG are also universe
+# members here, so their series are shared with the universe (a benchmark ticker needs no special case).
+[[benchmarks]]
+id = "SPY"
+label = "S&P 500 (SPY)"
+components = { "SPY" = 1.0 }
+
+[[benchmarks]]
+id = "AGG"
+label = "US Aggregate Bond (AGG)"
+components = { "AGG" = 1.0 }
+
+[[benchmarks]]
+id = "BLEND_6040"
+label = "60/40 SPY / AGG"
+components = { "SPY" = 0.6, "AGG" = 0.4 }
+
+# Cash: a yield series (annual percent). ^IRX is the 13-week US T-bill discount rate; the label is shown
+# wherever the series or Sharpe is used, because it is a proxy, not a total-return cash index.
+[cash]
+ticker = "^IRX"
+label = "T-bill proxy"
+kind = "annual_yield_pct"

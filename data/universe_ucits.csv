@@ -1,0 +1,521 @@
+us_ticker,match,ucits_name,isin,yahoo_ticker,exchange,currency,index_or_exposure,figi,yahoo_first,note
+FMF,none,,,,,,,,,No UCITS managed futures ETF
+KMLM,none,,,,,,,,,No UCITS managed futures ETF
+WTMF,none,,,,,,,,,No UCITS managed futures ETF
+DBMF,none,,,,,,,,,No UCITS managed futures ETF
+FLSP,none,,,,,,,,,No UCITS equivalent
+ROMO,none,,,,,,,,,No UCITS equivalent
+SDCI,similar,iShares Diversified Commodity Swap UCITS ETF (DE),DE000A0H0728,EXXY.DE,Xetra,EUR,Bloomberg Commodity Index (broad futures),BBG000Q41WH2,2008-01-02,Different index (Bloomberg Commodity vs the US fund's index)
+USCI,similar,iShares Diversified Commodity Swap UCITS ETF (DE),DE000A0H0728,EXXY.DE,Xetra,EUR,Bloomberg Commodity Index (broad futures),BBG000Q41WH2,2008-01-02,Different index (Bloomberg Commodity vs the US fund's index)
+COMT,similar,iShares Diversified Commodity Swap UCITS ETF (DE),DE000A0H0728,EXXY.DE,Xetra,EUR,Bloomberg Commodity Index (broad futures),BBG000Q41WH2,2008-01-02,Different index (Bloomberg Commodity vs the US fund's index)
+GSG,similar,iShares Diversified Commodity Swap UCITS ETF (DE),DE000A0H0728,EXXY.DE,Xetra,EUR,Bloomberg Commodity Index (broad futures),BBG000Q41WH2,2008-01-02,Different index (Bloomberg Commodity vs the US fund's index)
+CMDY,similar,iShares Bloomberg Enhanced Roll Yield Commodity Swap UCITS ETF USD (Acc),IE00BZ1NCS44,ROLL.L,LSE,USD,Bloomberg Enhanced Roll Yield Total Return Index,BBG00LQ5Z9L2,2018-10-03,fund was Roll Select until the Feb 2022 index switch to Enhanced Roll Yield; US CMDY tracks Roll Select so not same_index; no Xetra line found; swap-based
+NTSE,none,,,,,,,,,No UCITS equivalent
+NTSI,none,,,,,,,,,No UCITS equivalent
+NTSX,similar,WisdomTree US Efficient Core UCITS ETF USD Acc,IE000KF370H3,WTEF.DE,Xetra,EUR,"WisdomTree US Efficient Core UCITS Index (90% US large-cap equity, 60% US Treasury futures)",BBG01JPHBQL9,2023-10-27,Same 90/60 methodology; UCITS index has ESG exclusions
+USG,none,,,,,,,,,No UCITS equivalent
+WTIB,none,,,,,,,,,No UCITS equivalent
+BITA,none,,,,,,,,,No UCITS equivalent
+FXA,none,,,,,,,,,No UCITS equivalent
+FXB,none,,,,,,,,,No UCITS equivalent
+FXC,none,,,,,,,,,No UCITS equivalent
+FXE,none,,,,,,,,,No UCITS equivalent
+FXY,none,,,,,,,,,No UCITS equivalent
+FXF,none,,,,,,,,,No UCITS equivalent
+UDN,none,,,,,,,,,No UCITS equivalent
+UUP,none,,,,,,,,,No UCITS equivalent
+USE,none,,,,,,,,,No UCITS equivalent
+UNL,none,,,,,,,,,No UCITS equivalent
+USL,none,,,,,,,,,No UCITS equivalent
+BNO,none,,,,,,,,,No UCITS equivalent
+UGA,none,,,,,,,,,No UCITS equivalent
+UNG,none,,,,,,,,,No UCITS equivalent
+USO,none,,,,,,,,,No UCITS equivalent
+CPER,none,,,,,,,,,No UCITS equivalent
+SVXY,none,,,,,,,,,No UCITS equivalent
+TMV,none,,,,,,,,,No UCITS equivalent
+TYO,none,,,,,,,,,No UCITS equivalent
+TBF,none,,,,,,,,,No UCITS equivalent
+TBX,none,,,,,,,,,No UCITS equivalent
+SJB,none,,,,,,,,,No UCITS equivalent
+TTT,none,,,,,,,,,No UCITS equivalent
+TBT,none,,,,,,,,,No UCITS equivalent
+PST,none,,,,,,,,,No UCITS equivalent
+SPXS,similar,Xtrackers S&P 500 2x Inverse Daily Swap UCITS ETF 1C,LU0411078636,DBPK.DE,Xetra,EUR,S&P 500 -2x daily inverse,BBG000Q8L2K3,2010-03-18,"same index, leverage -2x vs the US fund's -3x"
+HIBS,none,,,,,,,,,No UCITS equivalent
+LOFD,none,,,,,,,,,No UCITS equivalent
+DOG,none,,,,,,,,,No UCITS equivalent
+MYY,none,,,,,,,,,No UCITS equivalent
+PSQ,same_index,Amundi Nasdaq-100 Daily (-1x) Inverse UCITS ETF Acc,LU1327051279,LYQ3.DE,Xetra,EUR,Nasdaq-100 1x Short Total Return Index (-1x daily),BBG00BYG9N48,2016-01-04,"synthetic, accumulating; Xetra listing preferred over Paris DSP5.PA"
+RWM,none,,,,,,,,,No UCITS equivalent
+SH,same_index,Xtrackers S&P 500 Inverse Daily Swap UCITS ETF 1C,LU0322251520,DXS3.DE,Xetra,EUR,S&P 500 Short (-1x daily),BBG000P2Y517,2008-01-15,"synthetic, accumulating"
+SBB,none,,,,,,,,,No UCITS equivalent
+SDOW,none,,,,,,,,,No UCITS equivalent
+SMDD,none,,,,,,,,,No UCITS equivalent
+SQQQ,none,,,,,,,,,No UCITS equivalent
+SRTY,none,,,,,,,,,No UCITS equivalent
+SPXU,similar,Xtrackers S&P 500 2x Inverse Daily Swap UCITS ETF 1C,LU0411078636,DBPK.DE,Xetra,EUR,S&P 500 -2x daily inverse,BBG000Q8L2K3,2010-03-18,"same index, leverage -2x vs the US fund's -3x"
+DXD,none,,,,,,,,,No UCITS equivalent
+MZZ,none,,,,,,,,,No UCITS equivalent
+QID,similar,Amundi Nasdaq-100 Daily (-1x) Inverse UCITS ETF Acc,LU1327051279,LYQ3.DE,Xetra,EUR,Nasdaq-100 1x Short Total Return Index (-1x daily),BBG00BYG9N48,2016-01-04,"same index family, leverage -1x vs the US fund's -2x; Xetra listing preferred over Paris DSP5.PA"
+QQDN,none,,,,,,,,,No UCITS equivalent
+TWM,none,,,,,,,,,No UCITS equivalent
+SDS,same_index,Xtrackers S&P 500 2x Inverse Daily Swap UCITS ETF 1C,LU0411078636,DBPK.DE,Xetra,EUR,S&P 500 -2x daily inverse,BBG000Q8L2K3,2010-03-18,"synthetic, accumulating"
+SDD,none,,,,,,,,,No UCITS equivalent
+GLL,none,,,,,,,,,No UCITS equivalent
+ZSL,none,,,,,,,,,No UCITS equivalent
+SCO,none,,,,,,,,,2x inverse crude oil: no UCITS equivalent; WisdomTree-type leveraged/short oil products are ETCs/ETNs not UCITS
+KOLD,none,,,,,,,,,2x inverse natural gas: no UCITS equivalent; leveraged/short gas products are ETCs/ETNs not UCITS
+BITI,none,,,,,,,,,No UCITS equivalent
+SETH,none,,,,,,,,,No UCITS equivalent
+SBIT,none,,,,,,,,,No UCITS equivalent
+ETHD,none,,,,,,,,,No UCITS equivalent
+EUO,none,,,,,,,,,No UCITS equivalent
+EPV,none,,,,,,,,,No UCITS equivalent
+YCS,none,,,,,,,,,No UCITS equivalent
+YANG,none,,,,,,,,,No UCITS equivalent
+EDZ,none,,,,,,,,,No UCITS equivalent
+YXI,none,,,,,,,,,No UCITS equivalent
+EFZ,none,,,,,,,,,No UCITS equivalent
+EUM,none,,,,,,,,,"No UCITS equivalent (Xtrackers MSCI EM Short LU0518622286 has no Yahoo listing, dropped)"
+FXP,none,,,,,,,,,No UCITS equivalent
+BZQ,none,,,,,,,,,No UCITS equivalent
+EFU,none,,,,,,,,,No UCITS equivalent
+EEV,none,,,,,,,,,No UCITS equivalent
+EWV,none,,,,,,,,,No UCITS equivalent
+EMTY,none,,,,,,,,,No UCITS equivalent
+AIBD,none,,,,,,,,,No UCITS equivalent
+WEBS,none,,,,,,,,,No UCITS equivalent
+ERY,none,,,,,,,,,No UCITS equivalent
+FAZ,none,,,,,,,,,No UCITS equivalent
+DUST,none,,,,,,,,,No UCITS equivalent
+JDST,none,,,,,,,,,No UCITS equivalent
+DRV,none,,,,,,,,,No UCITS equivalent
+LABD,none,,,,,,,,,No UCITS equivalent
+DRIP,none,,,,,,,,,No UCITS equivalent
+SOXS,none,,,,,,,,,No UCITS equivalent
+TZA,none,,,,,,,,,No UCITS equivalent
+TECS,none,,,,,,,,,No UCITS equivalent
+SEF,none,,,,,,,,,No UCITS equivalent
+REK,none,,,,,,,,,No UCITS equivalent
+SCC,none,,,,,,,,,No UCITS equivalent
+SZK,none,,,,,,,,,No UCITS equivalent
+DUG,none,,,,,,,,,No UCITS equivalent
+SKF,none,,,,,,,,,No UCITS equivalent
+RXD,none,,,,,,,,,No UCITS equivalent
+SIJ,none,,,,,,,,,No UCITS equivalent
+SMN,none,,,,,,,,,No UCITS equivalent
+BIS,none,,,,,,,,,No UCITS equivalent
+SRS,none,,,,,,,,,No UCITS equivalent
+SSG,none,,,,,,,,,No UCITS equivalent
+REW,none,,,,,,,,,no UCITS equivalent
+SDP,none,,,,,,,,,no UCITS equivalent
+AAPD,none,,,,,,,,,no UCITS equivalent
+AMDD,none,,,,,,,,,no UCITS equivalent
+AMZD,none,,,,,,,,,no UCITS equivalent
+AVS,none,,,,,,,,,no UCITS equivalent
+CSCS,none,,,,,,,,,no UCITS equivalent
+GGLS,none,,,,,,,,,no UCITS equivalent
+METD,none,,,,,,,,,no UCITS equivalent
+MSFD,none,,,,,,,,,no UCITS equivalent
+MUD,none,,,,,,,,,no UCITS equivalent
+NFXS,none,,,,,,,,,no UCITS equivalent
+NVDD,none,,,,,,,,,no UCITS equivalent
+ORCS,none,,,,,,,,,no UCITS equivalent
+PALD,none,,,,,,,,,no UCITS equivalent
+QCMD,none,,,,,,,,,no UCITS equivalent
+TSLS,none,,,,,,,,,no UCITS equivalent
+TSMZ,none,,,,,,,,,no UCITS equivalent
+MIDU,none,,,,,,,,,no UCITS equivalent
+HIBL,none,,,,,,,,,no UCITS equivalent
+LOFF,none,,,,,,,,,no UCITS equivalent
+DDM,none,,,,,,,,,no UCITS equivalent
+MVV,none,,,,,,,,,no UCITS equivalent
+QLD,same_index,Amundi Nasdaq-100 Daily (2x) Leveraged UCITS ETF Acc,FR0010342592,L8I7.DE,Xetra,EUR,Nasdaq-100 2x daily leveraged,BBG000PQNHQ3,2020-12-04,synthetic
+EQQQ,none,,,,,,,,,no UCITS equivalent
+AGQ,same_index,WisdomTree Silver 2x Daily Leveraged,JE00B2NFTS64,LSIL.MI,Borsa Italiana,EUR,2x daily Bloomberg Silver Subindex,BBG000QPYN34,2008-03-11,"leveraged ETC, not a UCITS ETF; EUR line on Borsa Italiana"
+BOIL,none,,,,,,,,,2x long natural gas: no UCITS equivalent; leveraged gas products are ETCs/ETNs not UCITS
+BTCU,none,,,,,,,,,no UCITS equivalent
+EVMU,none,,,,,,,,,no UCITS equivalent
+BITU,none,,,,,,,,,no UCITS equivalent
+ETHT,none,,,,,,,,,no UCITS equivalent
+EURL,none,,,,,,,,,no UCITS equivalent
+CHAU,none,,,,,,,,,no UCITS equivalent
+CWEB,none,,,,,,,,,no UCITS equivalent
+BRZU,none,,,,,,,,,no UCITS equivalent
+EDC,none,,,,,,,,,no UCITS equivalent
+INDL,none,,,,,,,,,no UCITS equivalent
+MEXX,none,,,,,,,,,no UCITS equivalent
+KORU,none,,,,,,,,,no UCITS equivalent
+EFO,none,,,,,,,,,no UCITS equivalent
+EET,none,,,,,,,,,no UCITS equivalent
+EZJ,none,,,,,,,,,no UCITS equivalent
+AIBU,none,,,,,,,,,no UCITS equivalent
+DFEN,none,,,,,,,,,no UCITS equivalent
+ERX,none,,,,,,,,,no UCITS equivalent
+FAS,none,,,,,,,,,no UCITS equivalent
+NUGT,none,,,,,,,,,no UCITS equivalent
+CURE,none,,,,,,,,,no UCITS equivalent
+NAIL,none,,,,,,,,,no UCITS equivalent
+DUSL,none,,,,,,,,,no UCITS equivalent
+JNUG,none,,,,,,,,,no UCITS equivalent
+FNGG,none,,,,,,,,,no UCITS equivalent
+PILL,none,,,,,,,,,no UCITS equivalent
+DRN,none,,,,,,,,,no UCITS equivalent
+DPST,none,,,,,,,,,no UCITS equivalent
+LABU,none,,,,,,,,,no UCITS equivalent
+GUSH,none,,,,,,,,,no UCITS equivalent
+LTL,none,,,,,,,,,no UCITS equivalent
+DIG,none,,,,,,,,,no UCITS equivalent
+BIB,none,,,,,,,,,no UCITS equivalent
+AAPU,none,,,,,,,,,no UCITS equivalent
+ADBU,none,,,,,,,,,no UCITS equivalent
+AMUU,none,,,,,,,,,no UCITS equivalent
+AMZU,none,,,,,,,,,no UCITS equivalent
+ASMU,none,,,,,,,,,no UCITS equivalent
+AVL,none,,,,,,,,,no UCITS equivalent
+BOEU,none,,,,,,,,,no UCITS equivalent
+BABU,none,,,,,,,,,no UCITS equivalent
+BRKU,none,,,,,,,,,no UCITS equivalent
+CONX,none,,,,,,,,,no UCITS equivalent
+CSCL,none,,,,,,,,,no UCITS equivalent
+GGLL,none,,,,,,,,,no UCITS equivalent
+HODU,none,,,,,,,,,no UCITS equivalent
+LINT,none,,,,,,,,,no UCITS equivalent
+ELIL,none,,,,,,,,,no UCITS equivalent
+LMTL,none,,,,,,,,,no UCITS equivalent
+METU,none,,,,,,,,,no UCITS equivalent
+MRVU,none,,,,,,,,,no UCITS equivalent
+MSFU,none,,,,,,,,,no UCITS equivalent
+MUU,none,,,,,,,,,no UCITS equivalent
+NFXL,none,,,,,,,,,no UCITS equivalent
+NVDU,none,,,,,,,,,no UCITS equivalent
+ORCU,none,,,,,,,,,no UCITS equivalent
+PALU,none,,,,,,,,,no UCITS equivalent
+PLTU,none,,,,,,,,,no UCITS equivalent
+PYPU,none,,,,,,,,,no UCITS equivalent
+QCMU,none,,,,,,,,,no UCITS equivalent
+COIA,none,,,,,,,,,no UCITS equivalent
+CRCA,none,,,,,,,,,no UCITS equivalent
+NVDB,none,,,,,,,,,no UCITS equivalent
+PLTA,none,,,,,,,,,no UCITS equivalent
+VIXM,none,,,,,,,,,no UCITS equivalent
+VIXY,none,,,,,,,,,no UCITS equivalent
+AOK,none,,,,,,,,,no UCITS equivalent
+AOM,none,,,,,,,,,no UCITS equivalent
+AOR,none,,,,,,,,,no UCITS equivalent
+AOA,none,,,,,,,,,no UCITS equivalent
+IYLD,none,,,,,,,,,no UCITS tracking Morningstar multi-asset income
+GLD,same_index,Invesco Physical Gold A,IE00B579F325,8PSG.DE,Xetra,EUR,LBMA gold price (allocated physical gold),BBG000MGW9T3,2009-06-26,"physically backed ETC, not a UCITS ETF"
+IAU,same_index,Invesco Physical Gold A,IE00B579F325,8PSG.DE,Xetra,EUR,LBMA gold price (allocated physical gold),BBG000MGW9T3,2009-06-26,"physically backed ETC, not a UCITS ETF"
+IAUM,same_index,Invesco Physical Gold A,IE00B579F325,8PSG.DE,Xetra,EUR,LBMA gold price (allocated physical gold),BBG000MGW9T3,2009-06-26,"physically backed ETC, not a UCITS ETF"
+SLV,same_index,Invesco Physical Silver A,IE00B43VDT70,8PSB.DE,Xetra,EUR,LBMA silver price (allocated physical silver),BBG001M0XM61,2011-04-13,"physically backed ETC, not a UCITS ETF"
+IBIT,none,,,,,,,,,no UCITS equivalent
+ETHA,none,,,,,,,,,no UCITS equivalent
+ETHB,none,,,,,,,,,no UCITS equivalent
+QMOM,none,,,,,,,,,concentrated quantitative momentum; no UCITS
+QGRO,similar,iShares Edge MSCI USA Quality Factor UCITS ETF USD (Acc),IE00BD1F4L37,QDVB.DE,Xetra,EUR,MSCI USA Sector Neutral Quality Index (net TR),BBG00DZWF5Y7,2016-10-24,active quality-growth; quality exposure only
+VAMO,none,,,,,,,,,concentrated value+momentum; no UCITS
+PDP,similar,iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Acc),IE00BD1F4N50,QDVA.DE,Xetra,EUR,MSCI USA Momentum Factor Index (net TR),BBG00DZWFN87,2016-10-24,Dorsey Wright technical momentum vs MSCI momentum
+DWAS,none,,,,,,,,,small-cap momentum; no UCITS
+XMMO,none,,,,,,,,,mid-cap momentum; no UCITS
+XSMO,none,,,,,,,,,small-cap momentum; no UCITS
+JMOM,similar,iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Acc),IE00BD1F4N50,QDVA.DE,Xetra,EUR,MSCI USA Momentum Factor Index (net TR),BBG00DZWFN87,2016-10-24,US large/mid momentum
+VFMO,similar,iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Acc),IE00BD1F4N50,QDVA.DE,Xetra,EUR,MSCI USA Momentum Factor Index (net TR),BBG00DZWFN87,2016-10-24,US momentum factor
+JOET,similar,iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Acc),IE00BD1F4N50,QDVA.DE,Xetra,EUR,MSCI USA Momentum Factor Index (net TR),BBG00DZWFN87,2016-10-24,quality-momentum blend; momentum leg only
+ABEQ,none,,,,,,,,,active absolute-return style value; no UCITS
+FLV,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,active focused large-cap value; short listing history
+FBCV,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,active large-cap value; short listing history
+PWV,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,large-cap value; short listing history
+IUS,similar,Invesco FTSE RAFI US 1000 UCITS ETF (Dist),IE00B23D8S39,6PSA.DE,Xetra,EUR,FTSE RAFI US 1000 Index,BBG000CJZ6D8,2008-01-02,RAFI Strategic US vs FTSE RAFI US 1000; fundamental weighting
+NULV,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,ESG-screened large-cap value; UCITS is unscreened; short listing history
+RAFE,similar,Invesco FTSE RAFI US 1000 UCITS ETF (Dist),IE00B23D8S39,6PSA.DE,Xetra,EUR,FTSE RAFI US 1000 Index,BBG000CJZ6D8,2008-01-02,RAFI ESG US vs FTSE RAFI US 1000; UCITS is not ESG-screened
+VLU,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,S&P 1500 value tilt; short listing history
+SPYV,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,S&P 500 Value; short listing history
+FNDB,similar,Invesco FTSE RAFI US 1000 UCITS ETF (Dist),IE00B23D8S39,6PSA.DE,Xetra,EUR,FTSE RAFI US 1000 Index,BBG000CJZ6D8,2008-01-02,Russell RAFI US Index vs FTSE RAFI US 1000; fundamental weighting
+SCHV,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,Dow Jones US Large-Cap Value; short listing history
+MGV,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,CRSP US Mega Cap Value; short listing history
+VONV,same_index,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,Russell 1000 Value; short listing history
+VOOV,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,S&P 500 Value; short listing history
+VTV,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,CRSP US Large Cap Value; short listing history
+AIVL,similar,WisdomTree US Value UCITS ETF USD Acc,IE000F9AQNW6,VYUS.DE,Xetra,EUR,"WisdomTree US Value UCITS Index (shareholder yield, quality/momentum screens)",BBG01YW49JX3,2025-12-15,"AI-enhanced value vs rules-based shareholder-yield value, same issuer; short listing history"
+IUSV,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,S&P 1500 value tilt; short listing history
+IWD,same_index,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,Russell 1000 Value; short listing history
+IWX,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,"Russell Top 200 Value, narrower mega-cap subset; short listing history"
+IVE,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,S&P 500 Value; short listing history
+ILCV,similar,SPDR MSCI USA Value UCITS ETF USD Acc,IE00BSPLC520,ZPRU.DE,Xetra,EUR,MSCI USA Value Weighted Index,BBG00820KQ72,2015-02-18,Morningstar US Large Cap Value vs MSCI USA value-weighted; no Morningstar UCITS exists
+FDMO,similar,iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Acc),IE00BD1F4N50,QDVA.DE,Xetra,EUR,MSCI USA Momentum Factor Index (net TR),BBG00DZWFN87,2016-10-24,Fidelity US momentum factor
+SPMO,similar,iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Acc),IE00BD1F4N50,QDVA.DE,Xetra,EUR,MSCI USA Momentum Factor Index (net TR),BBG00DZWFN87,2016-10-24,"S&P 500 Momentum, concentrated vs MSCI USA momentum"
+QQQA,none,,,,,,,,,Nasdaq-100 momentum; no UCITS
+MMTM,similar,iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Acc),IE00BD1F4N50,QDVA.DE,Xetra,EUR,MSCI USA Momentum Factor Index (net TR),BBG00DZWFN87,2016-10-24,S&P 1500 momentum tilt
+MTUM,similar,iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Acc),IE00BD1F4N50,QDVA.DE,Xetra,EUR,MSCI USA Momentum Factor Index (net TR),BBG00DZWFN87,2016-10-24,MSCI USA Momentum SR Variant vs MSCI USA Momentum Factor; index variant differs
+GARP,none,,,,,,,,,quality GARP; no UCITS
+SPDV,none,,,,,,,,,S&P 500 high dividend value; no UCITS
+ZIG,none,,,,,,,,,concentrated acquirer-multiple value; no UCITS
+QVAL,none,,,,,,,,,concentrated quantitative value; no UCITS
+VALQ,similar,Fidelity US Value Research Enhanced UCITS ETF USD Acc,IE000MKIH0W7,FUSV.DE,Xetra,EUR,US value equities (Fidelity research-enhanced),BBG01QRXFCR7,2026-02-02,name corrected to match OpenFIGI; STOXX US quality value vs Fidelity value research-enhanced; short listing history
+AVLV,similar,Avantis America Equity UCITS ETF USD Acc,IE000OW54ZX1,AVUS.DE,Xetra,EUR,"Active US all-cap equity, value and profitability tilt",BBG01ZZNQHY9,2026-02-23,same issuer active strategy; UCITS is all-cap with value tilt; short listing history
+SYLD,similar,WisdomTree US Value UCITS ETF USD Acc,IE000F9AQNW6,VYUS.DE,Xetra,EUR,"WisdomTree US Value UCITS Index (shareholder yield, quality/momentum screens)",BBG01YW49JX3,2025-12-15,shareholder-yield selection; short listing history
+REVS,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,enhanced large-cap value; short listing history
+DSTL,similar,Fidelity US Value Research Enhanced UCITS ETF USD Acc,IE000MKIH0W7,FUSV.DE,Xetra,EUR,US value equities (Fidelity research-enhanced),BBG01QRXFCR7,2026-02-02,name corrected to match OpenFIGI; stability and value vs Fidelity value research-enhanced; short listing history
+FVAL,similar,iShares Edge MSCI USA Value Factor UCITS ETF USD (Acc),IE00BD1F4M44,QDVI.DE,Xetra,EUR,MSCI USA Enhanced Value Index (net TR),BBG00DZWFD07,2016-10-24,Fidelity value factor
+DDIV,none,,,,,,,,,momentum+dividend multi-factor; no UCITS
+DVLU,none,,,,,,,,,momentum+value multi-factor; no UCITS
+FTA,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,AlphaDEX large-cap value; short listing history
+FNK,similar,SPDR S&P 400 US Mid Cap UCITS ETF,IE00B4YBJ215,SPY4.DE,Xetra,EUR,"S&P MidCap 400 Index (blend, not value)",BBG002G93L44,2012-01-30,AlphaDEX mid-cap value; UCITS is mid-cap blend
+FAB,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,AlphaDEX multi-cap value; short listing history
+QLC,similar,iShares Edge MSCI USA Quality Factor UCITS ETF USD (Acc),IE00BD1F4L37,QDVB.DE,Xetra,EUR,MSCI USA Sector Neutral Quality Index (net TR),BBG00DZWF5Y7,2016-10-24,FlexShares quality large-cap
+QDIV,similar,Fidelity US Quality Income UCITS ETF Acc-USD,IE00BYXVGY31,FUSA.DE,Xetra,EUR,Fidelity US Quality Income Index,BBG00GCM8BD5,2017-04-03,S&P 500 quality dividend vs Fidelity quality income
+PRF,same_index,Invesco FTSE RAFI US 1000 UCITS ETF (Dist),IE00B23D8S39,6PSA.DE,Xetra,EUR,FTSE RAFI US 1000 Index,BBG000CJZ6D8,2008-01-02,FTSE RAFI US 1000; distributing share class
+SPGP,similar,Invesco S&P 500 QVM UCITS ETF,IE00BDZCKK11,QVMP.DE,Xetra,EUR,"S&P 500 QVM Index (quality, value, momentum)",BBG00GQ9JBB9,2017-06-16,"S&P 500 GARP vs S&P 500 QVM, same sponsor"
+RPV,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,"S&P 500 Pure Value, more extreme value tilt; short listing history"
+SPVM,similar,Invesco S&P 500 QVM UCITS ETF,IE00BDZCKK11,QVMP.DE,Xetra,EUR,"S&P 500 QVM Index (quality, value, momentum)",BBG00GQ9JBB9,2017-06-16,"S&P 500 Value with Momentum vs S&P 500 QVM, same sponsor"
+XMVM,similar,SPDR S&P 400 US Mid Cap UCITS ETF,IE00B4YBJ215,SPY4.DE,Xetra,EUR,"S&P MidCap 400 Index (blend, not value)",BBG002G93L44,2012-01-30,S&P 400 value+momentum; UCITS is mid-cap blend
+JVAL,similar,iShares Edge MSCI USA Value Factor UCITS ETF USD (Acc),IE00BD1F4M44,QDVI.DE,Xetra,EUR,MSCI USA Enhanced Value Index (net TR),BBG00DZWFD07,2016-10-24,JPMorgan US value factor
+NUMV,similar,SPDR S&P 400 US Mid Cap UCITS ETF,IE00B4YBJ215,SPY4.DE,Xetra,EUR,"S&P MidCap 400 Index (blend, not value)",BBG002G93L44,2012-01-30,ESG mid-cap value; UCITS is mid-cap blend
+COWZ,same_index,Pacer US Cash Cows 100 UCITS ETF,IE000IL7PZ05,COWZ.AS,Euronext Amsterdam,USD,Pacer US Cash Cows 100 Index (Solactive-calculated TR),BBG01MRVLS61,2024-08-05,"accumulating; no Xetra listing found, Amsterdam line trades in USD (London in GBP)"
+BUL,none,,,,,,,,,cash-cow growth; no UCITS
+PY,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,Principal value; short listing history
+PVAL,similar,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,IE000US24HF4,V1VA.DE,Xetra,EUR,"Russell 1000 Value Index (UCITS-capped); launched 2026-07, short history",BBG023BDQXS9,2026-07-07,active focused large-cap value; short listing history
+ONEO,similar,iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Acc),IE00BD1F4N50,QDVA.DE,Xetra,EUR,MSCI USA Momentum Factor Index (net TR),BBG00DZWFN87,2016-10-24,"Russell 1000 momentum focus, multi-factor"
+FNDX,similar,Invesco FTSE RAFI US 1000 UCITS ETF (Dist),IE00B23D8S39,6PSA.DE,Xetra,EUR,FTSE RAFI US 1000 Index,BBG000CJZ6D8,2008-01-02,Russell RAFI US Large vs FTSE RAFI US 1000; fundamental weighting
+ITAN,none,,,,,,,,,intangible value; no UCITS
+VOE,similar,SPDR S&P 400 US Mid Cap UCITS ETF,IE00B4YBJ215,SPY4.DE,Xetra,EUR,"S&P MidCap 400 Index (blend, not value)",BBG002G93L44,2012-01-30,CRSP mid-cap value; UCITS is mid-cap blend
+VFVA,similar,iShares Edge MSCI USA Value Factor UCITS ETF USD (Acc),IE00BD1F4M44,QDVI.DE,Xetra,EUR,MSCI USA Enhanced Value Index (net TR),BBG00DZWFD07,2016-10-24,Vanguard US value factor
+ULVM,similar,Invesco S&P 500 QVM UCITS ETF,IE00BDZCKK11,QVMP.DE,Xetra,EUR,"S&P 500 QVM Index (quality, value, momentum)",BBG00GQ9JBB9,2017-06-16,value+momentum multi-factor
+WTV,similar,WisdomTree US Value UCITS ETF USD Acc,IE000F9AQNW6,VYUS.DE,Xetra,EUR,"WisdomTree US Value UCITS Index (shareholder yield, quality/momentum screens)",BBG01YW49JX3,2025-12-15,same issuer value strategy; UCITS index differs; short listing history
+QARP,similar,Fidelity US Value Research Enhanced UCITS ETF USD Acc,IE000MKIH0W7,FUSV.DE,Xetra,EUR,US value equities (Fidelity research-enhanced),BBG01QRXFCR7,2026-02-02,name corrected to match OpenFIGI; quality at reasonable price vs value research-enhanced (value leg only); short listing history
+VLUE,same_index,iShares Edge MSCI USA Value Factor UCITS ETF USD (Acc),IE00BD1F4M44,QDVI.DE,Xetra,EUR,MSCI USA Enhanced Value Index (net TR),BBG00DZWFD07,2016-10-24,MSCI USA Enhanced Value
+IWS,similar,SPDR S&P 400 US Mid Cap UCITS ETF,IE00B4YBJ215,SPY4.DE,Xetra,EUR,"S&P MidCap 400 Index (blend, not value)",BBG002G93L44,2012-01-30,Russell Midcap Value; UCITS is mid-cap blend
+SHRY,similar,WisdomTree US Value UCITS ETF USD Acc,IE000F9AQNW6,VYUS.DE,Xetra,EUR,WisdomTree US Value UCITS Index (total shareholder yield weighted),BBG01YW49JX3,2025-12-15,shareholder-yield weighting like SHRY but different index; Xetra line added Dec 2025 so short history
+MOAT,same_index,VanEck Morningstar US Wide Moat UCITS ETF A Acc,IE0007I99HX7,MOTU.MI,Borsa Italiana,EUR,Morningstar Wide Moat Focus Index,BBG01KXMZFR8,2024-02-20,same index as US MOAT; launched Jan 2024 (short history); older ESG-screened MOAT.L fund is a different index; no Yahoo Xetra line found
+IMCV,none,,,,,,,,,no UCITS tracking Morningstar mid-cap value or close mid-cap value index
+OUSA,similar,Fidelity US Quality Income UCITS ETF Acc-USD,IE00BYXVGY31,FUSA.DE,Xetra,EUR,Fidelity US Quality Income Index,BBG00GCM8BD5,2017-04-03,quality dividend
+SXQG,similar,iShares Edge MSCI USA Quality Factor UCITS ETF USD (Acc),IE00BD1F4L37,QDVB.DE,Xetra,EUR,MSCI USA Sector Neutral Quality Index (net TR),BBG00DZWF5Y7,2016-10-24,quality growth
+FQAL,similar,iShares Edge MSCI USA Quality Factor UCITS ETF USD (Acc),IE00BD1F4L37,QDVB.DE,Xetra,EUR,MSCI USA Sector Neutral Quality Index (net TR),BBG00DZWF5Y7,2016-10-24,Fidelity quality factor
+DVOL,none,,,,,,,,,momentum+low-vol multi-factor; no UCITS
+QDF,similar,Fidelity US Quality Income UCITS ETF Acc-USD,IE00BYXVGY31,FUSA.DE,Xetra,EUR,Fidelity US Quality Income Index,BBG00GCM8BD5,2017-04-03,quality dividend
+QDEF,similar,Fidelity US Quality Income UCITS ETF Acc-USD,IE00BYXVGY31,FUSA.DE,Xetra,EUR,Fidelity US Quality Income Index,BBG00GCM8BD5,2017-04-03,quality dividend defensive
+SPHQ,similar,iShares Edge MSCI USA Quality Factor UCITS ETF USD (Acc),IE00BD1F4L37,QDVB.DE,Xetra,EUR,MSCI USA Sector Neutral Quality Index (net TR),BBG00DZWF5Y7,2016-10-24,S&P 500 Quality
+JQUA,similar,iShares Edge MSCI USA Quality Factor UCITS ETF USD (Acc),IE00BD1F4L37,QDVB.DE,Xetra,EUR,MSCI USA Sector Neutral Quality Index (net TR),BBG00DZWF5Y7,2016-10-24,JPMorgan US quality factor
+DGRW,same_index,WisdomTree US Quality Dividend Growth UCITS ETF USD Acc,IE00BZ56RG20,WTDM.DE,Xetra,EUR,WisdomTree U.S. Quality Dividend Growth Index,BBG00D0Y8588,2016-06-21,WisdomTree U.S. Quality Dividend Growth
+QUAL,same_index,iShares Edge MSCI USA Quality Factor UCITS ETF USD (Acc),IE00BD1F4L37,QDVB.DE,Xetra,EUR,MSCI USA Sector Neutral Quality Index (net TR),BBG00DZWF5Y7,2016-10-24,MSCI USA Sector Neutral Quality
+OUSM,none,,,,,,,,,small-cap quality dividend; no UCITS
+AVUV,similar,SPDR MSCI USA Small Cap Value Weighted UCITS ETF,IE00BSPLC413,ZPRV.DE,Xetra,EUR,MSCI USA Small Cap Value Weighted Index,BBG00820H0L7,2015-02-18,active small-cap value vs value-weighted small-cap index
+DFAT,similar,SPDR MSCI USA Small Cap Value Weighted UCITS ETF,IE00BSPLC413,ZPRV.DE,Xetra,EUR,MSCI USA Small Cap Value Weighted Index,BBG00820H0L7,2015-02-18,active small/mid value vs value-weighted small-cap index
+FYT,similar,SPDR MSCI USA Small Cap Value Weighted UCITS ETF,IE00BSPLC413,ZPRV.DE,Xetra,EUR,MSCI USA Small Cap Value Weighted Index,BBG00820H0L7,2015-02-18,AlphaDEX small-cap value
+PRFZ,similar,SPDR MSCI USA Small Cap Value Weighted UCITS ETF,IE00BSPLC413,ZPRV.DE,Xetra,EUR,MSCI USA Small Cap Value Weighted Index,BBG00820H0L7,2015-02-18,RAFI US 1500 small-mid vs small-cap value-weighted
+GRPM,similar,SPDR S&P 400 US Mid Cap UCITS ETF,IE00B4YBJ215,SPY4.DE,Xetra,EUR,"S&P MidCap 400 Index (blend, not value)",BBG002G93L44,2012-01-30,S&P 400 GARP; UCITS is mid-cap blend
+RFV,similar,SPDR S&P 400 US Mid Cap UCITS ETF,IE00B4YBJ215,SPY4.DE,Xetra,EUR,"S&P MidCap 400 Index (blend, not value)",BBG002G93L44,2012-01-30,S&P 400 Pure Value; UCITS is mid-cap blend
+XMHQ,similar,SPDR S&P 400 US Mid Cap UCITS ETF,IE00B4YBJ215,SPY4.DE,Xetra,EUR,"S&P MidCap 400 Index (blend, not value)",BBG002G93L44,2012-01-30,S&P 400 quality; UCITS is mid-cap blend
+RZV,similar,iShares S&P Small Cap 600 UCITS ETF,IE00B2QWCY14,IUS3.DE,Xetra,EUR,"S&P SmallCap 600 Index (blend, not value)",BBG000DP9WW4,2008-05-09,S&P 600 Pure Value; UCITS is S&P 600 blend
+XSHQ,similar,iShares S&P Small Cap 600 UCITS ETF,IE00B2QWCY14,IUS3.DE,Xetra,EUR,"S&P SmallCap 600 Index (blend, not value)",BBG000DP9WW4,2008-05-09,S&P 600 quality; UCITS is S&P 600 blend
+XSVM,similar,iShares S&P Small Cap 600 UCITS ETF,IE00B2QWCY14,IUS3.DE,Xetra,EUR,"S&P SmallCap 600 Index (blend, not value)",BBG000DP9WW4,2008-05-09,S&P 600 value+momentum; UCITS is S&P 600 blend
+OSCV,none,,,,,,,,,active small-cap value; no UCITS
+CALF,same_index,Pacer US Small Cap Cash Cows UCITS ETF,IE000W7N50J7,CALF.AS,Euronext Amsterdam,USD,Pacer US Small Cap Cash Cows 100 Index (TR),BBG01THDJK03,2025-05-19,"launched 2025-04; no Xetra listing found, Amsterdam line trades in USD (London in GBP)"
+DEEP,none,,,,,,,,,concentrated deep value; no UCITS
+SQLV,none,,,,,,,,,small-cap quality+value; no UCITS
+MDYV,similar,SPDR S&P 400 US Mid Cap UCITS ETF,IE00B4YBJ215,SPY4.DE,Xetra,EUR,"S&P MidCap 400 Index (blend, not value)",BBG002G93L44,2012-01-30,S&P 400 Value; UCITS is S&P 400 blend
+SLYV,similar,SPDR MSCI USA Small Cap Value Weighted UCITS ETF,IE00BSPLC413,ZPRV.DE,Xetra,EUR,MSCI USA Small Cap Value Weighted Index,BBG00820H0L7,2015-02-18,S&P 600 Value vs value-weighted small-cap
+FNDA,similar,SPDR MSCI USA Small Cap Value Weighted UCITS ETF,IE00BSPLC413,ZPRV.DE,Xetra,EUR,MSCI USA Small Cap Value Weighted Index,BBG00820H0L7,2015-02-18,Russell RAFI US Small vs small-cap value-weighted
+VTWV,similar,SPDR MSCI USA Small Cap Value Weighted UCITS ETF,IE00BSPLC413,ZPRV.DE,Xetra,EUR,MSCI USA Small Cap Value Weighted Index,BBG00820H0L7,2015-02-18,Russell 2000 Value vs value-weighted small-cap
+IVOV,similar,SPDR S&P 400 US Mid Cap UCITS ETF,IE00B4YBJ215,SPY4.DE,Xetra,EUR,"S&P MidCap 400 Index (blend, not value)",BBG002G93L44,2012-01-30,S&P 400 Value; UCITS is S&P 400 blend
+VIOV,similar,SPDR MSCI USA Small Cap Value Weighted UCITS ETF,IE00BSPLC413,ZPRV.DE,Xetra,EUR,MSCI USA Small Cap Value Weighted Index,BBG00820H0L7,2015-02-18,S&P 600 Value vs value-weighted small-cap
+VBR,similar,SPDR MSCI USA Small Cap Value Weighted UCITS ETF,IE00BSPLC413,ZPRV.DE,Xetra,EUR,MSCI USA Small Cap Value Weighted Index,BBG00820H0L7,2015-02-18,CRSP small-cap value vs value-weighted small-cap
+VFQY,similar,iShares Edge MSCI USA Quality Factor UCITS ETF USD (Acc),IE00BD1F4L37,QDVB.DE,Xetra,EUR,MSCI USA Sector Neutral Quality Index (net TR),BBG00DZWF5Y7,2016-10-24,Vanguard US quality factor
+USVM,similar,SPDR MSCI USA Small Cap Value Weighted UCITS ETF,IE00BSPLC413,ZPRV.DE,Xetra,EUR,MSCI USA Small Cap Value Weighted Index,BBG00820H0L7,2015-02-18,small/mid value+momentum
+DGRS,none,,,,,,,,,small-cap quality dividend growth; no UCITS
+IWN,similar,SPDR MSCI USA Small Cap Value Weighted UCITS ETF,IE00BSPLC413,ZPRV.DE,Xetra,EUR,MSCI USA Small Cap Value Weighted Index,BBG00820H0L7,2015-02-18,Russell 2000 Value vs value-weighted small-cap
+IJJ,similar,SPDR S&P 400 US Mid Cap UCITS ETF,IE00B4YBJ215,SPY4.DE,Xetra,EUR,"S&P MidCap 400 Index (blend, not value)",BBG002G93L44,2012-01-30,S&P 400 Value; UCITS is S&P 400 blend
+IJS,similar,SPDR MSCI USA Small Cap Value Weighted UCITS ETF,IE00BSPLC413,ZPRV.DE,Xetra,EUR,MSCI USA Small Cap Value Weighted Index,BBG00820H0L7,2015-02-18,S&P 600 Value vs value-weighted small-cap
+SVAL,similar,SPDR MSCI USA Small Cap Value Weighted UCITS ETF,IE00BSPLC413,ZPRV.DE,Xetra,EUR,MSCI USA Small Cap Value Weighted Index,BBG00820H0L7,2015-02-18,US small-cap value factor
+ISCV,similar,SPDR MSCI USA Small Cap Value Weighted UCITS ETF USD Acc,IE00BSPLC413,ZPRV.DE,Xetra,EUR,MSCI USA Small Cap Value Weighted Index,BBG00820H0L7,2015-02-18,Morningstar US Small Cap Value vs MSCI small-cap value-weighted
+ILTB,similar,Xtrackers II US Treasuries 10+ UCITS ETF 1D,LU2662649412,XUTL.DE,Xetra,EUR,Bloomberg US Long Treasury Index (10+ years),BBG01K53XQ08,2023-12-06,Treasuries only vs US Aggregate 10+ (incl. corporates and MBS); similar long duration; distributing; listed 2023
+AGG,same_index,SPDR Bloomberg U.S. Aggregate Bond UCITS ETF (Dist),IE00B459R192,SYBU.DE,Xetra,EUR,Bloomberg US Aggregate Bond Index,BBG001NNK2G7,2011-06-03,
+IUSB,similar,SPDR Bloomberg U.S. Aggregate Bond UCITS ETF (Dist),IE00B459R192,SYBU.DE,Xetra,EUR,Bloomberg US Aggregate Bond Index,BBG001NNK2G7,2011-06-03,Universal index includes HY/EM sleeves; aggregate used
+BINC,none,,,,,,,,,Active fund
+BTOT,none,,,,,,,,,Active fund
+HYGW,none,,,,,,,,,"Option-income, no UCITS equivalent"
+LQDW,none,,,,,,,,,"Option-income, no UCITS equivalent"
+TLTW,none,,,,,,,,,"Option-income, no UCITS equivalent"
+SHYG,similar,iShares $ Short Duration High Yield Corp Bond UCITS ETF USD (Dist),IE00BCRY6003,IS3K.DE,Xetra,EUR,Markit iBoxx USD Liquid High Yield 0-5 Capped Index,BBG005DKVQH9,2013-10-15,Capped variant of same iBoxx 0-5 HY index family
+USHY,similar,iShares $ High Yield Corp Bond UCITS ETF USD (Dist),IE00B4PY7Y77,IS0R.DE,Xetra,EUR,Markit iBoxx USD Liquid High Yield Capped Index,BBG0022FR5J8,2011-09-13,Broad USD HY
+FALN,similar,iShares Fallen Angels High Yield Corp Bond UCITS ETF USD (Dist),IE00BYM31M36,QDVQ.DE,Xetra,EUR,Bloomberg Global Corporate ex EM Fallen Angels 3% Issuer Capped Index,BBG00D32P8X2,2016-06-23,Fallen angels; different index provider/scope
+FLOT,same_index,iShares $ Floating Rate Bond UCITS ETF USD (Dist),IE00BZ048462,QDVY.DE,Xetra,EUR,Bloomberg US Floating Rate Note < 5 Years Index,BBG00H0K5ZN9,2017-07-24,
+HYDB,similar,iShares $ High Yield Corp Bond UCITS ETF USD (Dist),IE00B4PY7Y77,IS0R.DE,Xetra,EUR,Markit iBoxx USD Liquid High Yield Capped Index,BBG0022FR5J8,2011-09-13,HYDB is systematic; broad USD HY
+NEAR,none,,,,,,,,,Active fund
+ICSH,none,,,,,,,,,Active fund
+HYG,similar,iShares $ High Yield Corp Bond UCITS ETF USD (Dist),IE00B4PY7Y77,IS0R.DE,Xetra,EUR,Markit iBoxx USD Liquid High Yield Capped Index,BBG0022FR5J8,2011-09-13,Capped variant of same iBoxx HY index family
+STIP,same_index,iShares $ TIPS 0-5 UCITS ETF USD (Dist),IE00BDQYWQ65,SXRH.DE,Xetra,EUR,ICE US Treasury Inflation Linked Bond 0-5 Years Index,BBG00GCM2CY6,2017-05-08,
+TIP,similar,iShares $ TIPS UCITS ETF USD (Acc),IE00B1FZSC47,IUST.DE,Xetra,EUR,Bloomberg US Government Inflation-Linked Bond Index,BBG000CZTKF6,2008-10-16,"TIP tracks ICE index, UCITS tracks Bloomberg index"
+IAGG,similar,iShares Core Global Aggregate Bond UCITS ETF EUR Hedged (Acc),IE00BDBRDM35,EUNA.DE,Xetra,EUR,Bloomberg Global Aggregate Bond Index (EUR hedged),BBG00J5HKZZ7,2017-11-21,different index: includes USD bonds and is EUR-hedged vs IAGG ex-USD bonds hedged to USD; no ex-USD UCITS found
+IGOV,similar,Amundi Global ex-US Government Bond UCITS ETF (Acc),LU3254330437,GXUS.DE,Xetra,EUR,Bloomberg Global Treasury Large Markets DM ex US Index,BBG0200V14S8,2026-03-09,"Was none; unhedged ex-US developed government bonds, different index from IGOV's; launched Feb 2026 so very short history"
+LEMB,similar,iShares J.P. Morgan EM Local Govt Bond UCITS ETF USD (Dist),IE00B5M4WH52,IUSP.DE,Xetra,EUR,J.P. Morgan GBI-EM Global Diversified 10% Cap 1% Floor Index,BBG001RW4QN0,2011-08-15,Global Core vs Global Diversified
+EMB,same_index,iShares J.P. Morgan $ EM Bond UCITS ETF USD (Acc),IE00BYXYYK40,IS02.DE,Xetra,EUR,J.P. Morgan EMBI Global Core Index,BBG00GF9X2B5,2020-08-14,
+SLQD,same_index,iShares $ Short Duration Corp Bond UCITS ETF USD (Dist),IE00BCRY5Y77,IS3J.DE,Xetra,EUR,Markit iBoxx USD Liquid Investment Grade 0-5 Index,BBG005DKR768,2013-10-16,
+IGSB,similar,iShares $ Short Duration Corp Bond UCITS ETF USD (Dist),IE00BCRY5Y77,IS3J.DE,Xetra,EUR,Markit iBoxx USD Liquid Investment Grade 0-5 Index,BBG005DKR768,2013-10-16,0-5y vs 1-5y
+IGLB,similar,SPDR Bloomberg 10+ Year U.S. Corporate Bond UCITS ETF (Dist),IE00BZ0G8860,SYBN.DE,Xetra,EUR,Bloomberg US Corporate 10+ Year Index,BBG00BH81K21,2015-12-07,"Was none; long-dated USD IG corporates, index provider/methodology differs from IGLB's"
+IGIB,similar,iShares $ Corp Bond UCITS ETF USD (Dist),IE0032895942,IBCD.DE,Xetra,EUR,Markit iBoxx USD Liquid Investment Grade Index,BBG000PQKWN6,2008-01-02,All-maturity USD IG; 5-10y fund
+QLTA,similar,iShares $ Corp Bond UCITS ETF USD (Dist),IE0032895942,IBCD.DE,Xetra,EUR,Markit iBoxx USD Liquid Investment Grade Index,BBG000PQKWN6,2008-01-02,USD IG corp; Aaa-A subset
+USIG,similar,Vanguard USD Corporate Bond UCITS ETF USD (Dist),IE00BZ163K21,VUCE.DE,Xetra,EUR,Bloomberg US Corporate Bond Float Adjusted Index,BBG00CB2M0V7,2019-06-18,
+SUSC,similar,iShares $ Corp Bond ESG UCITS ETF USD (Acc),IE00BKKKWJ26,5UOA.DE,Xetra,EUR,Bloomberg MSCI US Corporate Sustainable SRI Index,BBG00RTB9H70,2020-03-30,ESG Focus vs Sustainable SRI index
+LQD,same_index,iShares $ Corp Bond UCITS ETF USD (Dist),IE0032895942,IBCD.DE,Xetra,EUR,Markit iBoxx USD Liquid Investment Grade Index,BBG000PQKWN6,2008-01-02,
+CMBS,none,,,,,,,,,No UCITS equivalent
+GNMA,similar,iShares US Mortgage Backed Securities UCITS ETF USD (Dist),IE00BZ6V7883,QDVP.DE,Xetra,EUR,Bloomberg US MBS Index,BBG00CXHR5Y1,2016-05-27,"Agency MBS incl. GNMA, not GNMA-only"
+MBB,same_index,iShares US Mortgage Backed Securities UCITS ETF USD (Dist),IE00BZ6V7883,QDVP.DE,Xetra,EUR,Bloomberg US MBS Index,BBG00CXHR5Y1,2016-05-27,
+SECU,none,,,,,,,,,Active fund
+CMF,none,,,,,,,,,"US municipal bonds, no UCITS"
+INMU,none,,,,,,,,,"US municipal bonds, no UCITS"
+MUB,none,,,,,,,,,"US municipal bonds, no UCITS"
+NYF,none,,,,,,,,,"US municipal bonds, no UCITS"
+MEAR,none,,,,,,,,,"US municipal bonds, no UCITS"
+SUB,none,,,,,,,,,"US municipal bonds, no UCITS"
+PFF,similar,Invesco Preferred Shares UCITS ETF (Dist),IE00BDVJF675,PRFD.MI,Borsa Italiana,EUR,ICE BofA Diversified Core Plus Fixed Rate Preferred Securities Index,BBG00HT8QSW8,2017-09-28,Different ICE preferred index
+SGOV,similar,iShares $ Treasury Bond 0-1yr UCITS ETF USD (Acc),IE00BGSF1X88,IBCC.DE,Xetra,EUR,ICE US Treasury Short Bond Index,BBG00NBPHPZ9,2019-02-26,0-1y vs 0-3m
+SHV,similar,iShares $ Treasury Bond 0-1yr UCITS ETF USD (Acc),IE00BGSF1X88,IBCC.DE,Xetra,EUR,ICE US Treasury Short Bond Index,BBG00NBPHPZ9,2019-02-26,"Downgraded from same_index: since May 2020 SHV tracks the ICE Short US Treasury Securities Index, the UCITS tracks the ICE US Treasury Short Bond Index (SHV's pre-2020 index); same 0-1y Treasury exposure"
+SHY,same_index,iShares $ Treasury Bond 1-3yr UCITS ETF USD (Dist),IE00B14X4S71,IUSU.DE,Xetra,EUR,ICE US Treasury 1-3 Year Bond Index,BBG000BJNY69,2008-01-02,
+TLH,same_index,iShares $ Treasury Bond 10-20yr UCITS ETF USD (Acc),IE000RLUVMR2,I20T.AS,Euronext Amsterdam,USD,ICE US Treasury 10-20 Year Bond Index,BBG01VCFMF14,2025-06-27,"Was none; fund launched June 2025 so short history; no Xetra line found, Amsterdam line quoted in USD"
+TLT,same_index,iShares $ Treasury Bond 20+yr UCITS ETF USD (Dist),IE00BSKRJZ44,IS04.DE,Xetra,EUR,ICE US Treasury 20+ Year Bond Index,BBG007X82JY9,2015-04-01,
+IEI,same_index,iShares $ Treasury Bond 3-7yr UCITS ETF USD (Acc),IE00B3VWN393,CBUE.DE,Xetra,EUR,ICE US Treasury 3-7 Year Bond Index,BBG000BYMP93,2019-02-27,
+IEF,same_index,iShares $ Treasury Bond 7-10yr UCITS ETF USD (Dist),IE00B1FZS798,IUSM.DE,Xetra,EUR,ICE US Treasury 7-10 Year Bond Index,BBG000CZP6G0,2009-02-03,
+TFLO,same_index,WisdomTree USD Floating Rate Treasury Bond UCITS ETF - USD Acc,IE00BJJYYX67,TFRN.MI,Borsa Italiana,EUR,Bloomberg US Treasury Floating Rate Bond Index,BBG00NNMVN64,2019-03-21,Was none; no Xetra listing found; Dist class is IE00BJFN5P63 (USFR.L)
+GOVT,same_index,iShares $ Treasury Bond UCITS ETF USD (Dist),IE00BK95B138,SNA2.DE,Xetra,EUR,ICE US Treasury Core Bond Index,BBG00Q217F42,2019-09-03,
+FXI,same_index,iShares China Large Cap UCITS ETF USD (Dist),IE00B02KXK85,IQQC.DE,Xetra,EUR,FTSE China 50,BBG000BXYNR7,2008-12-23,distributing
+INDY,same_index,Xtrackers Nifty 50 Swap UCITS ETF 1C,LU0292109690,DBX7.DE,Xetra,EUR,Nifty 50,BBG000NX8FR0,2008-01-02,synthetic swap replication
+EWA,same_index,iShares MSCI Australia UCITS ETF USD (Acc),IE00B5377D42,IBC6.DE,Xetra,EUR,MSCI Australia,BBG000PV9G35,2010-01-22,US ETF uses a 25/50 capped variant
+EWO,similar,iShares ATX UCITS ETF (DE),DE000A0D8Q23,EXXX.DE,Xetra,EUR,ATX (Vienna large caps),BBG000PBJL19,2008-01-02,different index: ATX vs MSCI Austria IMI 25/50; German-domiciled UCITS; distributing
+EWK,similar,Amundi BEL 20 UCITS ETF Dist,FR0000021842,BEL.BR,Euronext Brussels,EUR,BEL 20 Net Return Index,BBG000PBC5W7,2008-01-02,different index: BEL 20 vs MSCI Belgium IMI 25/50; distributing; Brussels line only
+EWZ,similar,Xtrackers MSCI Brazil UCITS ETF 1C,LU0292109344,XMBR.DE,Xetra,EUR,Brazil equities (MSCI Brazil),BBG000R7FQX4,2008-01-02,US ETF tracks MSCI Brazil 25/50 (capped); UCITS tracks standard MSCI Brazil
+EWC,similar,iShares MSCI Canada UCITS ETF USD (Acc),IE00B52SF786,SXR2.DE,Xetra,EUR,Canada equities (MSCI Canada),BBG000BJZBP5,2010-03-11,US ETF tracks MSCI Canada Custom Capped; UCITS tracks standard MSCI Canada
+ECH,none,,,,,,,,,no UCITS ETF found tracking Chile
+CNYA,same_index,iShares MSCI China A UCITS ETF USD (Acc),IE00BQT3WG13,36BZ.DE,Xetra,EUR,MSCI China A Inclusion,BBG008D8G6Y2,2015-05-19,
+MCHI,same_index,iShares MSCI China UCITS ETF USD (Acc),IE00BJ5JPG56,ICGA.DE,Xetra,EUR,MSCI China,BBG00PH85039,2019-07-02,
+EDEN,similar,XACT OMXC25 ESG UCITS ETF,SE0011452127,XACTC25.CO,Nasdaq Copenhagen,DKK,OMX Copenhagen 25 ESG (Danish large caps),BBG00N843F69,2019-02-04,"different index: ESG-screened OMXC25 vs MSCI Denmark IMI 25/50; DKK, accumulating; Swedish-domiciled UCITS"
+EFNL,none,,,,,,,,,no UCITS ETF found tracking Finland
+EWQ,similar,Amundi CAC 40 UCITS ETF Dist,FR0007052782,CAC.PA,Euronext Paris,EUR,French large caps (CAC 40),BBG000F4HRQ8,2008-01-02,different index: CAC 40 vs MSCI France
+EWG,similar,Xtrackers DAX UCITS ETF 1C,LU0274211480,DBXD.DE,Xetra,EUR,German large caps (DAX),BBG000QQJ100,2008-01-02,different index: DAX vs MSCI Germany
+EWH,similar,UBS MSCI Hong Kong UCITS ETF (HKD) A-dis,LU1169827224,HKDE.AS,Euronext Amsterdam,EUR,Hong Kong equities (MSCI Hong Kong),BBG008QSQ227,2016-01-27,"HKD share class, distributing; US ETF tracks MSCI Hong Kong 25/50 (capped); UCITS tracks standard MSCI Hong Kong"
+INDA,same_index,iShares MSCI India UCITS ETF USD (Acc),IE00BZCQB185,QDV5.DE,Xetra,EUR,MSCI India,BBG00KXMJGW9,2018-05-31,
+SMIN,none,,,,,,,,,no UCITS ETF found tracking India small caps
+EIDO,similar,Xtrackers MSCI Indonesia Swap UCITS ETF 1C,LU0476289623,XMIN.MI,Borsa Italiana,EUR,Indonesia equities (MSCI Indonesia),BBG000QBYDS0,2010-03-02,"UCITS tracks the standard MSCI Indonesia index, US ETF the IMI 25/50 variant; swap-based"
+EIRL,none,,,,,,,,,no UCITS ETF found tracking Ireland
+EIS,none,,,,,,,,,no UCITS ETF found tracking Israel
+EWI,similar,Xtrackers FTSE MIB UCITS ETF 1D,LU0274212538,DBXI.DE,Xetra,EUR,Italian large caps (FTSE MIB),BBG000DQ5FB6,2008-01-02,different index: FTSE MIB vs MSCI Italy; distributing
+EWJ,same_index,iShares MSCI Japan UCITS ETF USD (Acc),IE00B53QDK08,SXR5.DE,Xetra,EUR,MSCI Japan,BBG000DDXNX3,2010-03-10,
+EWM,similar,Xtrackers MSCI Malaysia UCITS ETF 1C,LU0514694370,XCS3.DE,Xetra,EUR,Malaysia equities (MSCI Malaysia),BBG000R1RYT2,2011-08-24,"UCITS tracks the standard MSCI Malaysia index, US ETF the IMI 25/50 variant"
+EWW,similar,iShares MSCI Mexico Capped UCITS ETF USD (Acc),IE00B5WHFQ43,CEBG.DE,Xetra,EUR,Mexico equities (MSCI Mexico Capped),BBG000BDQGY7,2010-09-09,"UCITS tracks MSCI Mexico Capped, US ETF the MSCI Mexico IMI 25/50 variant"
+EWN,similar,iShares AEX UCITS ETF EUR (Acc),IE00BMTX2B82,IAEA.AS,Euronext Amsterdam,EUR,AEX Index (25-30 largest Dutch companies),BBG00W90K2B0,2020-07-29,different index: AEX large caps vs MSCI Netherlands IMI 25/50; accumulating; no Xetra line (IAEX is the distributing class)
+ENOR,none,,,,,,,,,no UCITS ETF found tracking Norway
+EPU,none,,,,,,,,,no UCITS ETF found tracking Peru
+EPHE,similar,Xtrackers MSCI Philippines UCITS ETF 1C,LU0592215403,XPQP.DE,Xetra,EUR,Philippines equities (MSCI Philippines),BBG001KHH9Z1,2011-04-12,US ETF tracks MSCI Philippines IMI 25/50 (capped); UCITS tracks a different MSCI Philippines variant
+QAT,none,,,,,,,,,no UCITS ETF found tracking Qatar
+KSA,similar,iShares MSCI Saudi Arabia Capped UCITS ETF USD (Acc),IE00BYYR0489,IUSS.DE,Xetra,EUR,Saudi Arabia equities (MSCI Saudi Arabia Capped),BBG00BQYMVB7,2019-04-18,"UCITS tracks MSCI Saudi Arabia 20/35 capped, US ETF the IMI 25/50 variant"
+EWS,similar,UBS MSCI Singapore UCITS ETF (SGD) A-dis,LU1169825954,UE24.AS,Euronext Amsterdam,EUR,Singapore equities (MSCI Singapore),BBG008QY25C2,2016-01-27,"SGD share class, distributing; US ETF tracks MSCI Singapore 25/50 (capped); UCITS tracks standard MSCI Singapore"
+EZA,similar,iShares MSCI South Africa UCITS ETF USD (Acc),IE00B52XQP83,IBC4.DE,Xetra,EUR,South Africa equities (MSCI South Africa),BBG000Q7RYK9,2010-01-22,"US ETF tracks MSCI South Africa 25/50; UCITS uses a 20/35 cap, so weights differ"
+EWY,similar,Xtrackers MSCI Korea UCITS ETF 1C,LU0292100046,DBX8.DE,Xetra,EUR,Korea equities (MSCI Korea),BBG000NX9ZH6,2008-01-02,US ETF tracks MSCI Korea 25/50 (capped); UCITS tracks standard MSCI Korea
+EWP,similar,Amundi IBEX 35 UCITS ETF Acc,FR0010655746,AMES.DE,Xetra,EUR,Spanish large caps (IBEX 35),BBG000J36GT9,2024-04-16,different index: IBEX 35 vs MSCI Spain; Yahoo history starts 2024
+EWD,similar,iShares OMX Stockholm Capped UCITS ETF,IE00BD3RYZ16,OM3X.DE,Xetra,SEK,OMX Stockholm Benchmark Cap Net Total Return Index,BBG00FJ5BPP9,2016-12-15,different index: OMX Stockholm Benchmark Cap vs MSCI Sweden IMI 25/50; Xetra line quoted in SEK; distributing
+EWL,similar,Amundi MSCI Switzerland UCITS ETF-C CHF,LU1681044993,18MN.DE,Xetra,EUR,Swiss equities (MSCI Switzerland),BBG00KDJ1S15,2012-01-02,synthetic swap replication; US ETF tracks MSCI Switzerland 25/50 (capped); UCITS tracks standard MSCI Switzerland
+EWT,similar,Xtrackers MSCI Taiwan UCITS ETF 1C,LU0292109187,DBX5.DE,Xetra,EUR,Taiwan equities (MSCI Taiwan),BBG000R7C4S2,2008-01-02,"US ETF tracks MSCI Taiwan 25/50 (single issuer capped at 25%); UCITS tracks standard MSCI Taiwan, materially more concentrated"
+THD,similar,Xtrackers MSCI Thailand UCITS ETF 1C,LU0514694701,XCS4.DE,Xetra,EUR,Thailand equities (MSCI Thailand),BBG000R1S676,2011-08-19,"UCITS tracks the standard MSCI Thailand index, US ETF the IMI 25/50 variant"
+TUR,similar,iShares MSCI Turkey UCITS ETF USD (Dist),IE00B1FZS574,IQQ5.DE,Xetra,EUR,Turkey equities (MSCI Turkey),BBG000CZWZ41,2008-12-22,"UCITS tracks the standard MSCI Turkey index, US ETF the IMI 25/50 variant; distributing"
+UAE,none,,,,,,,,,no UCITS ETF found tracking the UAE
+EWU,same_index,iShares MSCI UK UCITS ETF GBP (Acc),IE00B539F030,CSUK.SW,SIX Swiss Exchange,GBP,MSCI United Kingdom,BBG000CQ5WS2,2010-01-12,GBP share class; US ETF uses a 25/50 capped variant
+IEMG,same_index,iShares Core MSCI EM IMI UCITS ETF USD (Acc),IE00BKM4GZ66,IS3N.DE,Xetra,EUR,MSCI Emerging Markets IMI,BBG006B70NV3,2014-06-11,
+DVYE,same_index,iShares Emerging Markets Dividend UCITS ETF USD (Dist),IE00B652H904,EUNY.DE,Xetra,EUR,Dow Jones Emerging Markets Select Dividend,BBG00286MDF4,2011-11-25,distributing
+EMGF,similar,Franklin EM Multi-Factor Equity UCITS ETF (Acc),IE00BF2B0K52,FLXE.DE,Xetra,EUR,"Emerging markets multi-factor (quality, value, momentum, low vol)",BBG00HW8XP25,2017-10-19,different index: Franklin LibertyQ-style EM multifactor vs MSCI EM Diversified Multiple-Factor; launched Oct 2017 as Franklin LibertyQ Emerging Markets UCITS ETF
+EEM,same_index,iShares MSCI EM UCITS ETF USD (Acc),IE00B4L5YC18,EUNM.DE,Xetra,EUR,MSCI Emerging Markets,BBG000P72WS3,2009-10-20,
+EEMV,same_index,iShares Edge MSCI EM Minimum Volatility UCITS ETF USD (Acc),IE00B8KGV557,EUNZ.DE,Xetra,EUR,MSCI Emerging Markets Minimum Volatility,BBG003P548Y5,2012-11-30,
+EEMS,same_index,iShares MSCI EM Small Cap UCITS ETF USD (Dist),IE00B3F81G20,EUNI.DE,Xetra,EUR,MSCI Emerging Markets Small Cap,BBG000C4C1K9,2009-03-05,distributing
+EMXC,same_index,iShares MSCI EM ex-China UCITS ETF USD (Acc),IE00BMG6Z448,84X0.DE,Xetra,EUR,MSCI Emerging Markets ex China,BBG00ZR5RLB3,2023-11-03,
+IVVW,none,,,,,,,,,US option-income strategy; no UCITS equivalent
+IWMW,none,,,,,,,,,US option-income strategy; no UCITS equivalent
+BALQ,none,,,,,,,,,US option-income strategy; no UCITS equivalent
+BALI,none,,,,,,,,,US option-income strategy; no UCITS equivalent
+IBB,similar,iShares Nasdaq US Biotechnology UCITS ETF USD (Acc),IE00BYXG2H39,2B70.DE,Xetra,EUR,US biotechnology (NASDAQ Biotechnology),BBG00J051HK5,2017-11-24,US ETF moved in 2021 to the ICE (now NYSE) Biotechnology Index; UCITS still tracks NASDAQ Biotechnology
+IGV,similar,WisdomTree Cloud Computing UCITS ETF USD Acc,IE00BJGWQN72,WTEJ.DE,Xetra,EUR,BVP Nasdaq Emerging Cloud Index (equal-weight cloud software),BBG00Q3G7NW0,2019-10-17,different index and tilt: emerging cloud equal-weight vs S&P expanded tech software cap-weighted; accumulating
+IXP,similar,Xtrackers MSCI World Communication Services UCITS ETF 1C,IE00BM67HR47,XWTS.DE,Xetra,EUR,Developed-market communication services (MSCI World Communication Services),BBG00CBTXPX9,2016-04-18,different index: S&P Global 1200 sector vs MSCI World sector
+RXI,similar,Xtrackers MSCI World Consumer Discretionary UCITS ETF 1C,IE00BM67HP23,XDWC.DE,Xetra,EUR,Developed-market consumer discretionary (MSCI World Consumer Discretionary),BBG00CCJJGZ4,2016-04-18,different index: S&P Global 1200 sector vs MSCI World sector
+KXI,similar,Xtrackers MSCI World Consumer Staples UCITS ETF 1C,IE00BM67HN09,XDWS.DE,Xetra,EUR,Developed-market consumer staples (MSCI World Consumer Staples),BBG00CB7XJP0,2016-04-18,different index: S&P Global 1200 sector vs MSCI World sector
+IXC,similar,Xtrackers MSCI World Energy UCITS ETF 1C,IE00BM67HM91,XDW0.DE,Xetra,EUR,Developed-market energy (MSCI World Energy),BBG00CBTHJ07,2016-04-18,different index: S&P Global 1200 sector vs MSCI World sector
+IXG,similar,Xtrackers MSCI World Financials UCITS ETF 1C,IE00BM67HL84,XDWF.DE,Xetra,EUR,Developed-market financials (MSCI World Financials),BBG00C9Y0RW4,2017-04-19,different index: S&P Global 1200 sector vs MSCI World sector
+IXJ,similar,Xtrackers MSCI World Health Care UCITS ETF 1C,IE00BM67HK77,XDWH.DE,Xetra,EUR,Developed-market health care (MSCI World Health Care),BBG00C9Y1409,2016-04-18,different index: S&P Global 1200 sector vs MSCI World sector
+EXI,similar,Xtrackers MSCI World Industrials UCITS ETF 1C,IE00BM67HV82,XDWI.DE,Xetra,EUR,Developed-market industrials (MSCI World Industrials),BBG00CCJJQV6,2016-04-18,different index: S&P Global 1200 sector vs MSCI World sector
+MXI,similar,Xtrackers MSCI World Materials UCITS ETF 1C,IE00BM67HS53,XDWM.DE,Xetra,EUR,Developed-market materials (MSCI World Materials),BBG00CBTXSY2,2016-04-18,different index: S&P Global 1200 sector vs MSCI World sector
+IXN,similar,Xtrackers MSCI World Information Technology UCITS ETF 1C,IE00BM67HT60,XDWT.DE,Xetra,EUR,Developed-market information technology (MSCI World Information Technology),BBG00CB7XY13,2016-04-18,different index: S&P Global 1200 sector vs MSCI World sector
+JXI,similar,Xtrackers MSCI World Utilities UCITS ETF 1C,IE00BM67HQ30,XDWU.DE,Xetra,EUR,Developed-market utilities (MSCI World Utilities),BBG00CBTVD13,2016-04-18,different index: S&P Global 1200 sector vs MSCI World sector
+SOXX,similar,VanEck Semiconductor UCITS ETF A USD,IE00BMC38736,VVSM.DE,Xetra,EUR,US-listed semiconductors (MVIS US Listed Semiconductor 25),BBG00YCY2LR9,2020-12-11,different index: ICE Semiconductor vs MVIS
+IYM,similar,iShares S&P 500 Materials Sector UCITS ETF USD (Acc),IE00B4MKCJ84,2B7B.DE,Xetra,EUR,US materials (S&P 500 Materials 35/20 capped),BBG00G5JR427,2017-03-22,different index: Dow Jones US vs S&P 500 sector
+IAI,none,,,,,,,,,no UCITS ETF found tracking US broker-dealers
+IYC,similar,iShares S&P 500 Consumer Discretionary Sector UCITS ETF USD (Acc),IE00B4MCHD36,QDVK.DE,Xetra,EUR,US consumer discretionary (S&P 500 Consumer Discretionary 35/20 capped),BBG00BDQV8G4,2015-12-03,different index: Dow Jones US vs S&P 500 sector
+IYK,similar,iShares S&P 500 Consumer Staples Sector UCITS ETF USD (Acc),IE00B40B8R38,2B7D.DE,Xetra,EUR,US consumer staples (S&P 500 Consumer Staples 35/20 capped),BBG00G5JQJL4,2017-03-22,different index: Dow Jones US vs S&P 500 sector
+IYE,similar,iShares S&P 500 Energy Sector UCITS ETF USD (Acc),IE00B42NKQ00,QDVF.DE,Xetra,EUR,US energy (S&P 500 Energy 35/20 capped),BBG00BDQV2T3,2015-12-03,different index: Dow Jones US vs S&P 500 sector
+IYG,similar,iShares S&P 500 Financials Sector UCITS ETF USD (Acc),IE00B4JNQZ49,QDVH.DE,Xetra,EUR,US financials (S&P 500 Financials 35/20 capped),BBG00BDQVDN5,2015-12-03,different index and narrower scope: Dow Jones US Financial Services vs S&P 500 Financials
+IYF,similar,iShares S&P 500 Financials Sector UCITS ETF USD (Acc),IE00B4JNQZ49,QDVH.DE,Xetra,EUR,US financials (S&P 500 Financials 35/20 capped),BBG00BDQVDN5,2015-12-03,different index: Dow Jones US Financials vs S&P 500 sector
+IYH,similar,iShares S&P 500 Health Care Sector UCITS ETF USD (Acc),IE00B43HR379,QDVG.DE,Xetra,EUR,US health care (S&P 500 Health Care 35/20 capped),BBG00BDQV9L6,2015-12-03,different index: Dow Jones US vs S&P 500 sector
+IHF,none,,,,,,,,,no UCITS ETF found tracking US health care providers
+ITB,none,,,,,,,,,no UCITS ETF found tracking US home construction
+IYJ,similar,iShares S&P 500 Industrials Sector UCITS ETF USD (Acc),IE00B4LN9N13,2B7C.DE,Xetra,EUR,US industrials (S&P 500 Industrials 35/20 capped),BBG00G5JRF22,2017-03-22,different index: Dow Jones US vs S&P 500 sector
+IAK,none,,,,,,,,,no UCITS ETF found tracking US insurance
+IHI,similar,iShares US Medical Devices UCITS ETF USD (Acc),IE00BMX0DF60,U5MD.DE,Xetra,EUR,Dow Jones U.S. Select Medical Equipment Capped 35/20 Index,BBG00W9KTSG5,2025-09-29,"capped variant of same index family; Xetra history from Sep 2025, longer EUR/USD history on UMDV.AS (from 2020)"
+IEO,none,,,,,,,,,no UCITS ETF found tracking US oil and gas exploration
+IEZ,none,,,,,,,,,no UCITS ETF found tracking US oil equipment and services
+IHE,none,,,,,,,,,no UCITS ETF found tracking US pharmaceuticals
+IAT,none,,,,,,,,,no UCITS ETF found tracking US regional banks
+IYW,similar,iShares S&P 500 Information Technology Sector UCITS ETF USD (Acc),IE00B3WJKG14,QDVE.DE,Xetra,EUR,US technology (S&P 500 Information Technology 35/20 capped),BBG00BDQVD00,2015-12-03,different index: Dow Jones US Technology vs S&P 500 sector
+IYZ,none,,,,,,,,,no UCITS ETF found tracking US telecommunications
+IYT,none,,,,,,,,,no UCITS ETF found tracking US transportation
+IDU,similar,iShares S&P 500 Utilities Sector UCITS ETF USD (Acc),IE00B4KBBD01,2B7A.DE,Xetra,EUR,US utilities (S&P 500 Utilities 35/20 capped),BBG00G5JSB75,2017-03-22,different index: Dow Jones US vs S&P 500 sector
+IEFA,similar,Xtrackers MSCI World ex USA UCITS ETF 1C,IE0006WW1TQ4,EXUS.DE,Xetra,EUR,Developed markets ex US (MSCI World ex USA),BBG01LMVXSR2,2024-03-11,MSCI World ex USA includes Canada; US ETF tracks MSCI EAFE IMI
+IDEV,similar,Xtrackers MSCI World ex USA UCITS ETF 1C,IE0006WW1TQ4,EXUS.DE,Xetra,EUR,Developed markets ex US (MSCI World ex USA),BBG01LMVXSR2,2024-03-11,US ETF tracks MSCI World ex USA IMI (adds small caps); UCITS tracks the large/mid-cap index
+IXUS,none,,,,,,,,,no UCITS ETF found tracking ACWI IMI ex US
+IEV,similar,iShares Core MSCI Europe UCITS ETF EUR (Acc),IE00B4K48X80,EUNK.DE,Xetra,EUR,European equities (MSCI Europe),BBG000P71K64,2009-10-20,different index: S&P Europe 350 vs MSCI Europe
+ACWI,same_index,iShares MSCI ACWI UCITS ETF USD (Acc),IE00B6R52259,IUSQ.DE,Xetra,EUR,MSCI ACWI,BBG00265DDC1,2011-10-21,
+ACWX,none,,,,,,,,,no UCITS ETF found tracking ACWI ex US
+EFA,similar,Xtrackers MSCI World ex USA UCITS ETF 1C,IE0006WW1TQ4,EXUS.DE,Xetra,EUR,Developed markets ex US (MSCI World ex USA),BBG01LMVXSR2,2024-03-11,MSCI World ex USA includes Canada; US ETF tracks MSCI EAFE
+SCZ,none,,,,,,,,,no UCITS ETF found tracking EAFE small caps
+URTH,same_index,iShares Core MSCI World UCITS ETF USD (Acc),IE00B4L5Y983,EUNL.DE,Xetra,EUR,MSCI World,BBG000P71PV5,2009-09-25,
+EMIF,none,,,,,,,,,no UCITS ETF found for emerging markets infrastructure
+IGF,similar,iShares Global Infrastructure UCITS ETF USD (Dist),IE00B1FZS467,IQQI.DE,Xetra,EUR,Global listed infrastructure (FTSE Global Core Infrastructure),BBG000CQ4LZ9,2008-12-23,different index: S&P Global Infrastructure vs FTSE Global Core Infrastructure; distributing
+IFRA,similar,Global X U.S. Infrastructure Development UCITS ETF USD Acc,IE00BLCHJ534,94VE.DE,Xetra,EUR,Indxx U.S. Infrastructure Development v2 Index,BBG0138WD838,2021-11-11,"different index: Indxx US infrastructure development (builders, materials) vs NYSE FactSet US Infrastructure (utilities, energy, industrials); accumulating"
+IGRO,similar,WisdomTree Global Ex-USA Quality Dividend Growth UCITS ETF EUR Acc,IE000X7DRW38,DGXU.DE,Xetra,EUR,WisdomTree Global ex-USA Quality Dividend Growth Index,BBG01XBG5PZ9,2025-10-13,different index: quality dividend growth ex-US vs Morningstar international dividend growth; accumulating; listed Oct 2025
+IDV,similar,VanEck Morningstar Developed Markets ex-US Dividend Leaders UCITS ETF A USD Acc,IE000QYDXKV5,TDVX.DE,Xetra,EUR,Morningstar Developed Markets ex-US Dividend Leaders Index,BBG021M9HDQ6,2026-04-20,different index: Morningstar top-100 ex-US dividend vs Dow Jones EPAC Select Dividend; accumulating; listed April 2026
+ISCF,none,,,,,,,,,no UCITS equivalent for international small-cap factor
+EFAV,none,,,,,,,,,no UCITS ETF found tracking EAFE minimum volatility
+IMTM,none,,,,,,,,,no UCITS ETF for international momentum; world factor funds include the US
+IQLT,none,,,,,,,,,no UCITS ETF for international quality; world factor funds include the US
+IVLU,none,,,,,,,,,no UCITS ETF for international value; world factor funds include the US
+REET,similar,iShares Developed Markets Property Yield UCITS ETF USD (Dist),IE00B1FZS350,IQQ6.DE,Xetra,EUR,Developed-market listed real estate (FTSE EPRA Nareit Developed Dividend+),BBG000D3G714,2008-12-23,different index and dividend screen; distributing
+IFGL,none,,,,,,,,,no UCITS ETF found tracking developed ex-US real estate
+REZ,none,,,,,,,,,no UCITS ETF found tracking residential and multisector real estate
+IYR,similar,iShares US Property Yield UCITS ETF USD (Dist),IE00B1FZSF77,IQQ7.DE,Xetra,EUR,US listed real estate (FTSE EPRA Nareit US Dividend+),BBG000CZVVN0,2008-01-02,different index: Dow Jones US Real Estate vs FTSE EPRA Nareit; distributing
+IPAC,none,,,,,,,,,no UCITS ETF found tracking MSCI Pacific
+ILF,similar,iShares MSCI EM Latin America UCITS ETF USD (Dist),IE00B27YCK28,IUSC.DE,Xetra,EUR,Latin American equities (MSCI EM Latin America),BBG000PP4PZ8,2008-03-27,different index: S&P Latin America 40 vs MSCI EM Latin America; distributing
+AAXJ,same_index,Amundi MSCI AC Asia ex Japan UCITS ETF (Acc),LU1900068161,LASI.DE,Xetra,EUR,MSCI AC Asia ex Japan,BBG00N8SFK80,2019-02-22,synthetic swap replication
+EFG,none,,,,,,,,,no UCITS ETF found tracking EAFE growth
+EEMA,same_index,iShares MSCI EM Asia UCITS ETF USD (Acc),IE00B5L8K969,CEBL.DE,Xetra,EUR,MSCI Emerging Markets Asia,BBG000BDXBZ9,2011-02-28,
+EZU,same_index,iShares Core MSCI EMU UCITS ETF EUR (Acc),IE00B53QG562,SXR7.DE,Xetra,EUR,MSCI EMU,BBG000CKQV77,2010-03-11,
+EPP,same_index,iShares Core MSCI Pacific ex-Japan UCITS ETF USD (Acc),IE00B52MJY50,SXR1.DE,Xetra,EUR,MSCI Pacific ex Japan,BBG000BH50B1,2010-05-04,
+WOOD,same_index,iShares Global Timber & Forestry UCITS ETF USD (Dist),IE00B27YCF74,IUSB.DE,Xetra,EUR,S&P Global Timber & Forestry,BBG000THHYF1,2010-01-04,distributing; an accumulating class (IE0003ZXNJY5) exists with short history
+VEGI,none,,,,,,,,,no UCITS ETF found tracking agriculture producers
+RING,similar,iShares Gold Producers UCITS ETF USD (Acc),IE00B6R52036,IS0E.DE,Xetra,EUR,Gold mining equities (S&P Commodity Producers Gold),BBG0022QW5V4,2011-09-16,different index: MSCI ACWI Select Gold Miners IMI vs S&P Commodity Producers Gold
+PICK,similar,VanEck S&P Global Mining UCITS ETF A USD,IE00BDFBTQ78,WMIN.DE,Xetra,EUR,Global mining equities (S&P Global Mining),BBG00KN0QQX7,2018-05-09,different index and scope: MSCI metals and mining producers vs S&P Global Mining
+SLVP,similar,Global X Silver Miners UCITS ETF USD (Acc),IE000UL6CLP7,SLVR.DE,Xetra,EUR,Silver mining equities (Solactive Global Silver Miners),BBG0171NNHZ0,2022-05-06,different index: MSCI Global Silver and Metals Miners IMI vs Solactive
+SPY,same_index,iShares Core S&P 500 UCITS ETF USD (Acc),IE00B5BMR087,SXR8.DE,Xetra,EUR,S&P 500,BBG000Q362M9,2010-05-19,
+IVV,same_index,iShares Core S&P 500 UCITS ETF USD (Acc),IE00B5BMR087,SXR8.DE,Xetra,EUR,S&P 500,BBG000Q362M9,2010-05-19,
+ITOT,similar,iShares MSCI USA UCITS ETF USD (Acc),IE00B52SFT06,SXR4.DE,Xetra,EUR,US broad market (MSCI USA),BBG000CB5JP7,2010-03-16,different index: S&P Total Market vs MSCI USA (large/mid cap only)
+IWB,similar,iShares MSCI USA UCITS ETF USD (Acc),IE00B52SFT06,SXR4.DE,Xetra,EUR,US large and mid caps (MSCI USA),BBG000CB5JP7,2010-03-16,different index: Russell 1000 vs MSCI USA
+IWV,similar,iShares MSCI USA UCITS ETF USD (Acc),IE00B52SFT06,SXR4.DE,Xetra,EUR,US broad market (MSCI USA),BBG000CB5JP7,2010-03-16,different index: Russell 3000 vs MSCI USA (no small caps)
+IWL,similar,iShares Core S&P 500 UCITS ETF USD (Acc),IE00B5BMR087,SXR8.DE,Xetra,EUR,US mega caps (S&P 500),BBG000Q362M9,2010-05-19,different index and broader: Russell Top 200 vs S&P 500
+OEF,similar,iShares Core S&P 500 UCITS ETF USD (Acc),IE00B5BMR087,SXR8.DE,Xetra,EUR,US mega caps (S&P 500),BBG000Q362M9,2010-05-19,different index and broader: S&P 100 vs S&P 500
+DGRO,similar,SPDR S&P US Dividend Aristocrats UCITS ETF (Dist),IE00B6YX5D40,SPYD.DE,Xetra,EUR,US dividend growth (S&P High Yield Dividend Aristocrats),BBG00259MC09,2011-10-14,different index: Morningstar US Dividend Growth vs S&P High Yield Dividend Aristocrats; distributing
+HDV,similar,SPDR S&P US Dividend Aristocrats UCITS ETF (Dist),IE00B6YX5D40,SPYD.DE,Xetra,EUR,US high dividend yield (S&P High Yield Dividend Aristocrats),BBG00259MC09,2011-10-14,different index: Morningstar Dividend Yield Focus vs S&P High Yield Dividend Aristocrats; distributing
+USMV,same_index,Amundi MSCI USA Minimum Volatility Factor UCITS ETF,LU1589349734,MIVU.DE,Xetra,EUR,MSCI USA Minimum Volatility,BBG00GD95683,2018-11-02,synthetic swap replication
+DVY,similar,SPDR S&P US Dividend Aristocrats UCITS ETF (Dist),IE00B6YX5D40,SPYD.DE,Xetra,EUR,US high dividend yield (S&P High Yield Dividend Aristocrats),BBG00259MC09,2011-10-14,different index: Dow Jones US Select Dividend vs S&P High Yield Dividend Aristocrats; distributing
+IJH,same_index,SPDR S&P 400 US Mid Cap UCITS ETF,IE00B4YBJ215,SPY4.DE,Xetra,EUR,S&P MidCap 400,BBG002G93L44,2012-01-30,
+IJR,same_index,iShares S&P SmallCap 600 UCITS ETF USD (Dist),IE00B2QWCY14,IUS3.DE,Xetra,EUR,S&P SmallCap 600,BBG000DP9WW4,2008-05-09,distributing
+IWC,none,,,,,,,,,no UCITS ETF found tracking US micro caps
+IWM,same_index,Xtrackers Russell 2000 UCITS ETF 1C,IE00BJZ2DD79,XRS2.DE,Xetra,EUR,Russell 2000,BBG00840KQY0,2015-03-06,
+SMMD,none,,,,,,,,,no UCITS ETF found tracking Russell 2500
+IWR,similar,SPDR S&P 400 US Mid Cap UCITS ETF,IE00B4YBJ215,SPY4.DE,Xetra,EUR,US mid caps (S&P MidCap 400),BBG002G93L44,2012-01-30,different index: Russell Midcap vs S&P MidCap 400
+SMLF,none,,,,,,,,,no UCITS ETF found for US small-cap multi-factor

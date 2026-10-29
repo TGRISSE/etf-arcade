@@ -1,0 +1,142 @@
+ticker,name,short_name,group,family,currency
+EXXY.DE,iShares Diversified Commodity Swap UCITS ETF (DE),iSh Diversified Cmdty,Broad commodity futures,Cross Asset,EUR
+ROLL.L,iShares Bloomberg Enhanced Roll Yield Commodity Swap UCITS ETF USD (Acc),iSh BBG Roll Yield Cmdty,Broad commodity futures,Cross Asset,USD
+WTEF.DE,WisdomTree US Efficient Core UCITS ETF USD Acc,WT US Eff Core,Capital-efficient multi-asset,Cross Asset,EUR
+DBPK.DE,Xtrackers S&P 500 2x Inverse Daily Swap UCITS ETF 1C,Xtr S&P 500 2x Inverse,Inverse broad equity,Cross Asset,EUR
+LYQ3.DE,Amundi Nasdaq-100 Daily (-1x) Inverse UCITS ETF Acc,Amu Nasdaq-100 -1x Inv,Inverse broad equity,Cross Asset,EUR
+DXS3.DE,Xtrackers S&P 500 Inverse Daily Swap UCITS ETF 1C,Xtr S&P 500 Inverse 1d,Inverse broad equity,Cross Asset,EUR
+L8I7.DE,Amundi Nasdaq-100 Daily (2x) Leveraged UCITS ETF Acc,Amu Nasdaq-100 2x Lev,Leveraged broad equity,Cross Asset,EUR
+LSIL.MI,WisdomTree Silver 2x Daily Leveraged,WT Silver 2x 1d Lev,Leveraged commodities,Cross Asset,EUR
+8PSG.DE,Invesco Physical Gold A,Inv Physical Gold,Physical precious metals,Cross Asset,EUR
+8PSB.DE,Invesco Physical Silver A,Inv Physical Silver,Physical precious metals,Cross Asset,EUR
+QDVB.DE,iShares Edge MSCI USA Quality Factor UCITS ETF USD (Acc),iSh MSCI USA Qual,Broader momentum,Factor,EUR
+QDVA.DE,iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Acc),iSh MSCI USA Momentum,Broader momentum,Factor,EUR
+V1VA.DE,Vanguard Russell 1000 U.S. Value UCITS ETF USD Acc,Vgd Russell 1000 Value,Core large-cap value,Factor,EUR
+6PSA.DE,Invesco FTSE RAFI US 1000 UCITS ETF (Dist),Inv FTSE RAFI US 1000,Core large-cap value,Factor,EUR
+VYUS.DE,WisdomTree US Value UCITS ETF USD Acc,WT US Value,Core large-cap value,Factor,EUR
+ZPRU.DE,SPDR MSCI USA Value UCITS ETF USD Acc,SPDR MSCI USA Value,Core large-cap value,Factor,EUR
+FUSV.DE,Fidelity US Value Research Enhanced UCITS ETF USD Acc,Fid US Value Res Enh,Mid-cap & multi-factor value,Factor,EUR
+AVUS.DE,Avantis America Equity UCITS ETF USD Acc,Avantis America,Mid-cap & multi-factor value,Factor,EUR
+QDVI.DE,iShares Edge MSCI USA Value Factor UCITS ETF USD (Acc),iSh MSCI USA Value,Mid-cap & multi-factor value,Factor,EUR
+SPY4.DE,SPDR S&P 400 US Mid Cap UCITS ETF,SPDR S&P 400 US Mid Cap,Mid-cap & multi-factor value,Factor,EUR
+FUSA.DE,Fidelity US Quality Income UCITS ETF Acc-USD,Fid US Qual Income,Mid-cap & multi-factor value,Factor,EUR
+QVMP.DE,Invesco S&P 500 QVM UCITS ETF,Inv S&P 500 QVM,Mid-cap & multi-factor value,Factor,EUR
+COWZ.AS,Pacer US Cash Cows 100 UCITS ETF,Pacer US Cash Cows 100,Mid-cap & multi-factor value,Factor,USD
+MOTU.MI,VanEck Morningstar US Wide Moat UCITS ETF A Acc,VE MS US Wide Moat A,Mid-cap & multi-factor value,Factor,EUR
+WTDM.DE,WisdomTree US Quality Dividend Growth UCITS ETF USD Acc,WT US Qual Div Gr,Quality,Factor,EUR
+ZPRV.DE,SPDR MSCI USA Small Cap Value Weighted UCITS ETF,SPDR MSCI USA SmCap Val,Small-cap value,Factor,EUR
+IUS3.DE,iShares S&P Small Cap 600 UCITS ETF,iSh S&P Small Cap 600,Small-cap value,Factor,EUR
+CALF.AS,Pacer US Small Cap Cash Cows UCITS ETF,Pacer US SmCap Cash Cows,Small-cap value,Factor,USD
+XUTL.DE,Xtrackers II US Treasuries 10+ UCITS ETF 1D,Xtr US Treasuries 10+,Aggregate and flexible bonds,Fixed Income,EUR
+SYBU.DE,SPDR Bloomberg U.S. Aggregate Bond UCITS ETF (Dist),SPDR BBG U.S. Agg Bond,Aggregate and flexible bonds,Fixed Income,EUR
+IS3K.DE,iShares $ Short Duration High Yield Corp Bond UCITS ETF USD (Dist),iSh $ Short Dur HY Corp,High yield and floating credit,Fixed Income,EUR
+IS0R.DE,iShares $ High Yield Corp Bond UCITS ETF USD (Dist),iSh $ HY Corp,High yield and floating credit,Fixed Income,EUR
+QDVQ.DE,iShares Fallen Angels High Yield Corp Bond UCITS ETF USD (Dist),iSh Fallen Angels HY,High yield and floating credit,Fixed Income,EUR
+QDVY.DE,iShares $ Floating Rate Bond UCITS ETF USD (Dist),iSh $ FRN Bond,High yield and floating credit,Fixed Income,EUR
+SXRH.DE,iShares $ TIPS 0-5 UCITS ETF USD (Dist),iSh $ TIPS 0-5,Inflation-linked bonds,Fixed Income,EUR
+IUST.DE,iShares $ TIPS UCITS ETF USD (Acc),iSh $ TIPS,Inflation-linked bonds,Fixed Income,EUR
+EUNA.DE,iShares Core Global Aggregate Bond UCITS ETF EUR Hedged (Acc),iSh Core Global Agg EURH,International and emerging bonds,Fixed Income,EUR
+GXUS.DE,Amundi Global ex-US Government Bond UCITS ETF (Acc),Amu Global ex-US Govt,International and emerging bonds,Fixed Income,EUR
+IUSP.DE,iShares J.P. Morgan EM Local Govt Bond UCITS ETF USD (Dist),iSh JPM EM Local Govt,International and emerging bonds,Fixed Income,EUR
+IS02.DE,iShares J.P. Morgan $ EM Bond UCITS ETF USD (Acc),iSh JPM USD EM Bond,International and emerging bonds,Fixed Income,EUR
+IS3J.DE,iShares $ Short Duration Corp Bond UCITS ETF USD (Dist),iSh $ Short Dur Corp,Investment grade credit,Fixed Income,EUR
+SYBN.DE,SPDR Bloomberg 10+ Year U.S. Corporate Bond UCITS ETF (Dist),SPDR BBG US Corp 10+Y,Investment grade credit,Fixed Income,EUR
+IBCD.DE,iShares $ Corp Bond UCITS ETF USD (Dist),iSh $ Corp,Investment grade credit,Fixed Income,EUR
+VUCE.DE,Vanguard USD Corporate Bond UCITS ETF USD (Dist),Vgd USD Corp Bond,Investment grade credit,Fixed Income,EUR
+5UOA.DE,iShares $ Corp Bond ESG UCITS ETF USD (Acc),iSh $ Corp ESG,Investment grade credit,Fixed Income,EUR
+QDVP.DE,iShares US Mortgage Backed Securities UCITS ETF USD (Dist),iSh US MBS Sec,Mortgage and securitized bonds,Fixed Income,EUR
+PRFD.MI,Invesco Preferred Shares UCITS ETF (Dist),Inv Preferred,Preferred securities,Fixed Income,EUR
+IBCC.DE,iShares $ Treasury Bond 0-1yr UCITS ETF USD (Acc),iSh $ Treasury 0-1yr,Treasury and cash,Fixed Income,EUR
+IUSU.DE,iShares $ Treasury Bond 1-3yr UCITS ETF USD (Dist),iSh $ Treasury 1-3yr,Treasury and cash,Fixed Income,EUR
+I20T.AS,iShares $ Treasury Bond 10-20yr UCITS ETF USD (Acc),iSh $ Treasury 10-20yr,Treasury and cash,Fixed Income,USD
+IS04.DE,iShares $ Treasury Bond 20+yr UCITS ETF USD (Dist),iSh $ Treasury 20+yr,Treasury and cash,Fixed Income,EUR
+CBUE.DE,iShares $ Treasury Bond 3-7yr UCITS ETF USD (Acc),iSh $ Treasury 3-7yr,Treasury and cash,Fixed Income,EUR
+IUSM.DE,iShares $ Treasury Bond 7-10yr UCITS ETF USD (Dist),iSh $ Treasury 7-10yr,Treasury and cash,Fixed Income,EUR
+TFRN.MI,WisdomTree USD Floating Rate Treasury Bond UCITS ETF - USD Acc,WT USD FRN Treasury,Treasury and cash,Fixed Income,EUR
+SNA2.DE,iShares $ Treasury Bond UCITS ETF USD (Dist),iSh $ Treasury,Treasury and cash,Fixed Income,EUR
+IQQC.DE,iShares China Large Cap UCITS ETF USD (Dist),iSh China Large Cap,Country equity,Global Equity,EUR
+DBX7.DE,Xtrackers Nifty 50 Swap UCITS ETF 1C,Xtr Nifty 50,Country equity,Global Equity,EUR
+IBC6.DE,iShares MSCI Australia UCITS ETF USD (Acc),iSh MSCI Australia,Country equity,Global Equity,EUR
+EXXX.DE,iShares ATX UCITS ETF (DE),iSh ATX,Country equity,Global Equity,EUR
+BEL.BR,Amundi BEL 20 UCITS ETF Dist,Amu BEL 20,Country equity,Global Equity,EUR
+XMBR.DE,Xtrackers MSCI Brazil UCITS ETF 1C,Xtr MSCI Brazil,Country equity,Global Equity,EUR
+SXR2.DE,iShares MSCI Canada UCITS ETF USD (Acc),iSh MSCI Canada,Country equity,Global Equity,EUR
+36BZ.DE,iShares MSCI China A UCITS ETF USD (Acc),iSh MSCI China A,Country equity,Global Equity,EUR
+ICGA.DE,iShares MSCI China UCITS ETF USD (Acc),iSh MSCI China,Country equity,Global Equity,EUR
+XACTC25.CO,XACT OMXC25 ESG UCITS ETF,XACT OMXC25 ESG,Country equity,Global Equity,DKK
+CAC.PA,Amundi CAC 40 UCITS ETF Dist,Amu CAC 40,Country equity,Global Equity,EUR
+DBXD.DE,Xtrackers DAX UCITS ETF 1C,Xtr DAX,Country equity,Global Equity,EUR
+HKDE.AS,UBS MSCI Hong Kong UCITS ETF (HKD) A-dis,UBS MSCI Hong Kong,Country equity,Global Equity,EUR
+QDV5.DE,iShares MSCI India UCITS ETF USD (Acc),iSh MSCI India,Country equity,Global Equity,EUR
+XMIN.MI,Xtrackers MSCI Indonesia Swap UCITS ETF 1C,Xtr MSCI Indonesia,Country equity,Global Equity,EUR
+DBXI.DE,Xtrackers FTSE MIB UCITS ETF 1D,Xtr FTSE MIB,Country equity,Global Equity,EUR
+SXR5.DE,iShares MSCI Japan UCITS ETF USD (Acc),iSh MSCI Japan,Country equity,Global Equity,EUR
+XCS3.DE,Xtrackers MSCI Malaysia UCITS ETF 1C,Xtr MSCI Malaysia,Country equity,Global Equity,EUR
+CEBG.DE,iShares MSCI Mexico Capped UCITS ETF USD (Acc),iSh MSCI Mexico,Country equity,Global Equity,EUR
+IAEA.AS,iShares AEX UCITS ETF EUR (Acc),iSh AEX,Country equity,Global Equity,EUR
+XPQP.DE,Xtrackers MSCI Philippines UCITS ETF 1C,Xtr MSCI Philippines,Country equity,Global Equity,EUR
+IUSS.DE,iShares MSCI Saudi Arabia Capped UCITS ETF USD (Acc),iSh MSCI Saudi Arabia,Country equity,Global Equity,EUR
+UE24.AS,UBS MSCI Singapore UCITS ETF (SGD) A-dis,UBS MSCI Singapore,Country equity,Global Equity,EUR
+IBC4.DE,iShares MSCI South Africa UCITS ETF USD (Acc),iSh MSCI South Africa,Country equity,Global Equity,EUR
+DBX8.DE,Xtrackers MSCI Korea UCITS ETF 1C,Xtr MSCI Korea,Country equity,Global Equity,EUR
+AMES.DE,Amundi IBEX 35 UCITS ETF Acc,Amu IBEX 35,Country equity,Global Equity,EUR
+OM3X.DE,iShares OMX Stockholm Capped UCITS ETF,iSh OMX Stockholm,Country equity,Global Equity,SEK
+18MN.DE,Amundi MSCI Switzerland UCITS ETF-C CHF,Amu MSCI Switzerland,Country equity,Global Equity,EUR
+DBX5.DE,Xtrackers MSCI Taiwan UCITS ETF 1C,Xtr MSCI Taiwan,Country equity,Global Equity,EUR
+XCS4.DE,Xtrackers MSCI Thailand UCITS ETF 1C,Xtr MSCI Thailand,Country equity,Global Equity,EUR
+IQQ5.DE,iShares MSCI Turkey UCITS ETF USD (Dist),iSh MSCI Turkey,Country equity,Global Equity,EUR
+CSUK.SW,iShares MSCI UK UCITS ETF GBP (Acc),iSh MSCI UK,Country equity,Global Equity,GBP
+IS3N.DE,iShares Core MSCI EM IMI UCITS ETF USD (Acc),iSh Core MSCI EM IMI,Emerging market equity,Global Equity,EUR
+EUNY.DE,iShares Emerging Markets Dividend UCITS ETF USD (Dist),iSh EM Div,Emerging market equity,Global Equity,EUR
+FLXE.DE,Franklin EM Multi-Factor Equity UCITS ETF (Acc),Frk EM Multi-Factor,Emerging market equity,Global Equity,EUR
+EUNM.DE,iShares MSCI EM UCITS ETF USD (Acc),iSh MSCI EM,Emerging market equity,Global Equity,EUR
+EUNZ.DE,iShares Edge MSCI EM Minimum Volatility UCITS ETF USD (Acc),iSh MSCI EM Min Vol,Emerging market equity,Global Equity,EUR
+EUNI.DE,iShares MSCI EM Small Cap UCITS ETF USD (Dist),iSh MSCI EM Small Cap,Emerging market equity,Global Equity,EUR
+84X0.DE,iShares MSCI EM ex-China UCITS ETF USD (Acc),iSh MSCI EM ex-China,Emerging market equity,Global Equity,EUR
+2B70.DE,iShares Nasdaq US Biotechnology UCITS ETF USD (Acc),iSh Nasdaq US Biotech,Equity sectors and industries,Global Equity,EUR
+WTEJ.DE,WisdomTree Cloud Computing UCITS ETF USD Acc,WT Cloud Computing,Equity sectors and industries,Global Equity,EUR
+XWTS.DE,Xtrackers MSCI World Communication Services UCITS ETF 1C,Xtr MSCI World Comm Svcs,Equity sectors and industries,Global Equity,EUR
+XDWC.DE,Xtrackers MSCI World Consumer Discretionary UCITS ETF 1C,Xtr MSCI World Cons Disc,Equity sectors and industries,Global Equity,EUR
+XDWS.DE,Xtrackers MSCI World Consumer Staples UCITS ETF 1C,Xtr MSCI World Cons Stap,Equity sectors and industries,Global Equity,EUR
+XDW0.DE,Xtrackers MSCI World Energy UCITS ETF 1C,Xtr MSCI World Energy,Equity sectors and industries,Global Equity,EUR
+XDWF.DE,Xtrackers MSCI World Financials UCITS ETF 1C,Xtr World Financials,Equity sectors and industries,Global Equity,EUR
+XDWH.DE,Xtrackers MSCI World Health Care UCITS ETF 1C,Xtr MSCI World Health,Equity sectors and industries,Global Equity,EUR
+XDWI.DE,Xtrackers MSCI World Industrials UCITS ETF 1C,Xtr World Industrials,Equity sectors and industries,Global Equity,EUR
+XDWM.DE,Xtrackers MSCI World Materials UCITS ETF 1C,Xtr MSCI World Materials,Equity sectors and industries,Global Equity,EUR
+XDWT.DE,Xtrackers MSCI World Information Technology UCITS ETF 1C,Xtr MSCI World Info Tech,Equity sectors and industries,Global Equity,EUR
+XDWU.DE,Xtrackers MSCI World Utilities UCITS ETF 1C,Xtr MSCI World Utilities,Equity sectors and industries,Global Equity,EUR
+VVSM.DE,VanEck Semiconductor UCITS ETF A USD,VE Semiconductor A,Equity sectors and industries,Global Equity,EUR
+2B7B.DE,iShares S&P 500 Materials Sector UCITS ETF USD (Acc),iSh S&P 500 Materials,Equity sectors and industries,Global Equity,EUR
+QDVK.DE,iShares S&P 500 Consumer Discretionary Sector UCITS ETF USD (Acc),iSh S&P 500 Cons Disc,Equity sectors and industries,Global Equity,EUR
+2B7D.DE,iShares S&P 500 Consumer Staples Sector UCITS ETF USD (Acc),iSh S&P 500 Cons Stap,Equity sectors and industries,Global Equity,EUR
+QDVF.DE,iShares S&P 500 Energy Sector UCITS ETF USD (Acc),iSh S&P 500 Energy,Equity sectors and industries,Global Equity,EUR
+QDVH.DE,iShares S&P 500 Financials Sector UCITS ETF USD (Acc),iSh S&P 500 Financials,Equity sectors and industries,Global Equity,EUR
+QDVG.DE,iShares S&P 500 Health Care Sector UCITS ETF USD (Acc),iSh S&P 500 Health,Equity sectors and industries,Global Equity,EUR
+2B7C.DE,iShares S&P 500 Industrials Sector UCITS ETF USD (Acc),iSh S&P 500 Industrials,Equity sectors and industries,Global Equity,EUR
+U5MD.DE,iShares US Medical Devices UCITS ETF USD (Acc),iSh US Medical Devices,Equity sectors and industries,Global Equity,EUR
+QDVE.DE,iShares S&P 500 Information Technology Sector UCITS ETF USD (Acc),iSh S&P 500 Info Tech,Equity sectors and industries,Global Equity,EUR
+2B7A.DE,iShares S&P 500 Utilities Sector UCITS ETF USD (Acc),iSh S&P 500 Utilities,Equity sectors and industries,Global Equity,EUR
+EXUS.DE,Xtrackers MSCI World ex USA UCITS ETF 1C,Xtr MSCI World ex USA,Global and developed equity,Global Equity,EUR
+EUNK.DE,iShares Core MSCI Europe UCITS ETF EUR (Acc),iSh Core MSCI Europe,Global and developed equity,Global Equity,EUR
+IUSQ.DE,iShares MSCI ACWI UCITS ETF USD (Acc),iSh MSCI ACWI,Global and developed equity,Global Equity,EUR
+EUNL.DE,iShares Core MSCI World UCITS ETF USD (Acc),iSh Core MSCI World,Global and developed equity,Global Equity,EUR
+IQQI.DE,iShares Global Infrastructure UCITS ETF USD (Dist),iSh Global Infra,Infrastructure,Global Equity,EUR
+94VE.DE,Global X U.S. Infrastructure Development UCITS ETF USD Acc,GlobX U.S. Infra Dev,Infrastructure,Global Equity,EUR
+DGXU.DE,WisdomTree Global Ex-USA Quality Dividend Growth UCITS ETF EUR Acc,WT Global ex-US Qual Div,International equity styles,Global Equity,EUR
+TDVX.DE,VanEck Morningstar Developed Markets ex-US Dividend Leaders UCITS ETF A USD Acc,VE MS DM ex-US Div Lead,International equity styles,Global Equity,EUR
+IQQ6.DE,iShares Developed Markets Property Yield UCITS ETF USD (Dist),iSh DM Property,Listed real estate,Global Equity,EUR
+IQQ7.DE,iShares US Property Yield UCITS ETF USD (Dist),iSh US Property,Listed real estate,Global Equity,EUR
+IUSC.DE,iShares MSCI EM Latin America UCITS ETF USD (Dist),iSh MSCI EM LatAm,Regional equity,Global Equity,EUR
+LASI.DE,Amundi MSCI AC Asia ex Japan UCITS ETF (Acc),Amu MSCI AC Asia ex JP,Regional equity,Global Equity,EUR
+CEBL.DE,iShares MSCI EM Asia UCITS ETF USD (Acc),iSh MSCI EM Asia,Regional equity,Global Equity,EUR
+SXR7.DE,iShares Core MSCI EMU UCITS ETF EUR (Acc),iSh Core MSCI EMU,Regional equity,Global Equity,EUR
+SXR1.DE,iShares Core MSCI Pacific ex-Japan UCITS ETF USD (Acc),iSh Core MSCI Pac ex-JP,Regional equity,Global Equity,EUR
+IUSB.DE,iShares Global Timber & Forestry UCITS ETF USD (Dist),iSh Timber & Forestry,Resource producer equities,Global Equity,EUR
+IS0E.DE,iShares Gold Producers UCITS ETF USD (Acc),iSh Gold Producers,Resource producer equities,Global Equity,EUR
+WMIN.DE,VanEck S&P Global Mining UCITS ETF A USD,VE S&P Global Mining A,Resource producer equities,Global Equity,EUR
+SLVR.DE,Global X Silver Miners UCITS ETF USD (Acc),GlobX Silver Miners,Resource producer equities,Global Equity,EUR
+SXR8.DE,iShares Core S&P 500 UCITS ETF USD (Acc),iSh Core S&P 500,US broad equity,Global Equity,EUR
+SXR4.DE,iShares MSCI USA UCITS ETF USD (Acc),iSh MSCI USA,US broad equity,Global Equity,EUR
+SPYD.DE,SPDR S&P US Dividend Aristocrats UCITS ETF (Dist),SPDR US Div Aristocrats,US dividend and low volatility,Global Equity,EUR
+MIVU.DE,Amundi MSCI USA Minimum Volatility Factor UCITS ETF,Amu MSCI USA Min Vol,US dividend and low volatility,Global Equity,EUR
+XRS2.DE,Xtrackers Russell 2000 UCITS ETF 1C,Xtr Russell 2000,US mid and small equity,Global Equity,EUR

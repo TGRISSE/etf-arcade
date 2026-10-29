@@ -1,0 +1,521 @@
+ticker,name,short_name,group,family,currency
+FMF,First Trust Managed Futures,First Trust Mgd Futures,Managed futures & trend,Diversifiers,USD
+KMLM,KFA Mount Lucas Managed Futures,Mount Lucas Mgd Futures,Managed futures & trend,Diversifiers,USD
+WTMF,WisdomTree Managed Futures,WisdomTree Mgd Futures,Managed futures & trend,Diversifiers,USD
+DBMF,iMGP DBi Managed Futures,iMGP DBi Managed Futures,Managed futures & trend,Diversifiers,USD
+FLSP,Franklin Systematic Style Premia,Franklin Style Premia,Style & alternative risk premia,Diversifiers,USD
+ROMO,Strategy Shares Newfound/ReSolve Robust Momentum,Newfound Robust Momentum,Style & alternative risk premia,Diversifiers,USD
+SDCI,USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund,SummerHaven Dyn Cmdty,Broad commodity futures,Cross Asset,USD
+USCI,United States Commodity Index Fund,US Commodity Index,Broad commodity futures,Cross Asset,USD
+COMT,iShares GSCI Commodity Dynamic Roll Strategy ETF,GSCI Cmdty Dynamic Roll,Broad commodity futures,Cross Asset,USD
+GSG,iShares S&P GSCI Commodity-Indexed Trust,S&P GSCI Cmdty-Indexed,Broad commodity futures,Cross Asset,USD
+CMDY,iShares Bloomberg Roll Select Commodity Strategy ETF,Roll Select Commodity,Broad commodity futures,Cross Asset,USD
+NTSE,WisdomTree Emerging Markets Efficient Core Fund,EM Efficient Core,Capital-efficient multi-asset,Cross Asset,USD
+NTSI,WisdomTree International Efficient Core Fund,Intl Efficient Core,Capital-efficient multi-asset,Cross Asset,USD
+NTSX,WisdomTree U.S. Efficient Core Fund,U.S. Efficient Core,Capital-efficient multi-asset,Cross Asset,USD
+USG,USCF Gold Strategy Plus Income Fund,USCF Gold Plus Income,Commodity option income,Cross Asset,USD
+WTIB,USCF Oil Plus Bitcoin Strategy Fund,USCF Oil Plus Bitcoin,Cross-asset commodity and crypto,Cross Asset,USD
+BITA,iShares Bitcoin Premium Income ETF,Bitcoin Premium Income,Crypto option income,Cross Asset,USD
+FXA,Invesco CurrencyShares Australian Dollar Trust,Australian Dollar,Currencies,Cross Asset,USD
+FXB,Invesco CurrencyShares British Pound Sterling Trust,British Pound Sterling,Currencies,Cross Asset,USD
+FXC,Invesco CurrencyShares Canadian Dollar Trust,Canadian Dollar,Currencies,Cross Asset,USD
+FXE,Invesco CurrencyShares Euro Trust,CurrencyShares Euro,Currencies,Cross Asset,USD
+FXY,Invesco CurrencyShares Japanese Yen Trust,Japanese Yen,Currencies,Cross Asset,USD
+FXF,Invesco CurrencyShares Swiss Franc Trust,Swiss Franc,Currencies,Cross Asset,USD
+UDN,Invesco DB US Dollar Index Bearish Fund,US Dollar Index Bearish,Currencies,Cross Asset,USD
+UUP,Invesco DB US Dollar Index Bullish Fund,US Dollar Index Bullish,Currencies,Cross Asset,USD
+USE,USCF Energy Commodity Strategy Absolute Return Fund,Energy Cmdty Abs Return,Energy commodity futures,Cross Asset,USD
+UNL,United States 12 Month Natural Gas Fund,US 12 Month Natural Gas,Energy commodity futures,Cross Asset,USD
+USL,United States 12 Month Oil Fund,United States 12 Mo Oil,Energy commodity futures,Cross Asset,USD
+BNO,United States Brent Oil Fund,United States Brent Oil,Energy commodity futures,Cross Asset,USD
+UGA,United States Gasoline Fund,United States Gasoline,Energy commodity futures,Cross Asset,USD
+UNG,United States Natural Gas Fund,US Natural Gas,Energy commodity futures,Cross Asset,USD
+USO,United States Oil Fund,United States Oil,Energy commodity futures,Cross Asset,USD
+CPER,United States Copper Index Fund,US Copper Index,Industrial metal futures,Cross Asset,USD
+SVXY,ProShares Short VIX Short-Term Futures ETF,Short VIX Short-Term,Inverse VIX futures,Cross Asset,USD
+TMV,Direxion Daily 20+ Year Treasury Bear 3X ETF,20+ Year Tsy Bear 3X,Inverse bonds,Cross Asset,USD
+TYO,Direxion Daily 7-10 Year Treasury Bear 3X ETF,7-10 Year Tsy Bear 3X,Inverse bonds,Cross Asset,USD
+TBF,Short 20+ Year Treasury,Short 20+ Year Treasury,Inverse bonds,Cross Asset,USD
+TBX,Short 7-10 Year Treasury,Short 7-10 Year Treasury,Inverse bonds,Cross Asset,USD
+SJB,Short High Yield,Short High Yield,Inverse bonds,Cross Asset,USD
+TTT,UltraPro Short 20+ Year Treasury,UltraPro Short 20+Y Tsy,Inverse bonds,Cross Asset,USD
+TBT,UltraShort 20+ Year Treasury,UltraShort 20+ Year Tsy,Inverse bonds,Cross Asset,USD
+PST,UltraShort 7-10 Year Treasury,UltraShort 7-10 Year Tsy,Inverse bonds,Cross Asset,USD
+SPXS,Direxion Daily S&P 500 Bear 3X ETF,S&P 500 Bear 3X,Inverse broad equity,Cross Asset,USD
+HIBS,Direxion Daily S&P 500® High Beta Bear 3X ETF,S&P 500 Hi Beta Bear 3X,Inverse broad equity,Cross Asset,USD
+LOFD,Direxion Daily SpaceX Bear 2X ETF,SpaceX Bear 2X,Inverse broad equity,Cross Asset,USD
+DOG,Short Dow30,Short Dow30,Inverse broad equity,Cross Asset,USD
+MYY,Short MidCap400,Short MidCap400,Inverse broad equity,Cross Asset,USD
+PSQ,Short QQQ,Short QQQ,Inverse broad equity,Cross Asset,USD
+RWM,Short Russell2000,Short Russell2000,Inverse broad equity,Cross Asset,USD
+SH,Short S&P500,Short S&P500,Inverse broad equity,Cross Asset,USD
+SBB,Short SmallCap600,Short SmallCap600,Inverse broad equity,Cross Asset,USD
+SDOW,UltraPro Short Dow30,UltraPro Short Dow30,Inverse broad equity,Cross Asset,USD
+SMDD,UltraPro Short MidCap400,UltraPro Short MidCap400,Inverse broad equity,Cross Asset,USD
+SQQQ,UltraPro Short QQQ,UltraPro Short QQQ,Inverse broad equity,Cross Asset,USD
+SRTY,UltraPro Short Russell2000,UltraPro Short R2000,Inverse broad equity,Cross Asset,USD
+SPXU,UltraPro Short S&P500,UltraPro Short S&P500,Inverse broad equity,Cross Asset,USD
+DXD,UltraShort Dow30,UltraShort Dow30,Inverse broad equity,Cross Asset,USD
+MZZ,UltraShort MidCap400,UltraShort MidCap400,Inverse broad equity,Cross Asset,USD
+QID,UltraShort QQQ,UltraShort QQQ,Inverse broad equity,Cross Asset,USD
+QQDN,UltraShort QQQ Mega,UltraShort QQQ Mega,Inverse broad equity,Cross Asset,USD
+TWM,UltraShort Russell2000,UltraShort Russell2000,Inverse broad equity,Cross Asset,USD
+SDS,UltraShort S&P500,UltraShort S&P500,Inverse broad equity,Cross Asset,USD
+SDD,UltraShort SmallCap600,UltraShort SmallCap600,Inverse broad equity,Cross Asset,USD
+GLL,UltraShort Gold,UltraShort Gold,Inverse commodities,Cross Asset,USD
+ZSL,UltraShort Silver,UltraShort Silver,Inverse commodities,Cross Asset,USD
+SCO,UltraShort Bloomberg Crude Oil,UltraShort Crude Oil,Inverse commodities,Cross Asset,USD
+KOLD,UltraShort Bloomberg Natural Gas,UltraShort Natural Gas,Inverse commodities,Cross Asset,USD
+BITI,Short Bitcoin ETF,Short Bitcoin,Inverse crypto,Cross Asset,USD
+SETH,Short Ether ETF,Short Ether,Inverse crypto,Cross Asset,USD
+SBIT,UltraShort Bitcoin ETF,UltraShort Bitcoin,Inverse crypto,Cross Asset,USD
+ETHD,UltraShort Ether ETF,UltraShort Ether,Inverse crypto,Cross Asset,USD
+EUO,UltraShort Euro,UltraShort Euro,Inverse currencies,Cross Asset,USD
+EPV,UltraShort FTSE Europe,UltraShort FTSE Europe,Inverse currencies,Cross Asset,USD
+YCS,UltraShort Yen,UltraShort Yen,Inverse currencies,Cross Asset,USD
+YANG,Direxion Daily FTSE China Bear 3X ETF,FTSE China Bear 3X,Inverse international equity,Cross Asset,USD
+EDZ,Direxion Daily MSCI Emerging Markets Bear 3X ETF,MSCI EM Bear 3X,Inverse international equity,Cross Asset,USD
+YXI,Short FTSE China 50,Short FTSE China 50,Inverse international equity,Cross Asset,USD
+EFZ,Short MSCI EAFE,Short MSCI EAFE,Inverse international equity,Cross Asset,USD
+EUM,Short MSCI Emerging Markets,Short MSCI EM,Inverse international equity,Cross Asset,USD
+FXP,UltraShort FTSE China 50,UltraShort FTSE China 50,Inverse international equity,Cross Asset,USD
+BZQ,UltraShort MSCI Brazil Capped,UltraShort MSCI Brazil,Inverse international equity,Cross Asset,USD
+EFU,UltraShort MSCI EAFE,UltraShort MSCI EAFE,Inverse international equity,Cross Asset,USD
+EEV,UltraShort MSCI Emerging Markets,UltraShort MSCI EM,Inverse international equity,Cross Asset,USD
+EWV,UltraShort MSCI Japan,UltraShort MSCI Japan,Inverse international equity,Cross Asset,USD
+EMTY,Decline of the Retail Store ETF,Decline of Retail Stores,Inverse sector equity,Cross Asset,USD
+AIBD,Direxion Daily AI and Big Data Bear 2X ETF,AI and Big Data Bear 2X,Inverse sector equity,Cross Asset,USD
+WEBS,Direxion Daily Dow Jones Internet Bear 3X ETF,DJ Internet Bear 3X,Inverse sector equity,Cross Asset,USD
+ERY,Direxion Daily Energy Bear 2X ETF,Energy Bear 2X,Inverse sector equity,Cross Asset,USD
+FAZ,Direxion Daily Financial Bear 3X ETF,Financial Bear 3X,Inverse sector equity,Cross Asset,USD
+DUST,Direxion Daily Gold Miners Index Bear 2X ETF,Gold Miners Bear 2X,Inverse sector equity,Cross Asset,USD
+JDST,Direxion Daily Junior Gold Miners Index Bear 2X ETF,Jr Gold Miners Bear 2X,Inverse sector equity,Cross Asset,USD
+DRV,Direxion Daily Real Estate Bear 3X ETF,Real Estate Bear 3X,Inverse sector equity,Cross Asset,USD
+LABD,Direxion Daily S&P Biotech Bear 3X ETF,S&P Biotech Bear 3X,Inverse sector equity,Cross Asset,USD
+DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X ETF,Oil & Gas E&P Bear 2X,Inverse sector equity,Cross Asset,USD
+SOXS,Direxion Daily Semiconductor Bear 3X ETF,Semiconductor Bear 3X,Inverse sector equity,Cross Asset,USD
+TZA,Direxion Daily Small Cap Bear 3X ETF,Small Cap Bear 3X,Inverse sector equity,Cross Asset,USD
+TECS,Direxion Daily Technology Bear 3X ETF,Tech Bear 3X,Inverse sector equity,Cross Asset,USD
+SEF,Short Financials,Short Financials,Inverse sector equity,Cross Asset,USD
+REK,Short Real Estate,Short Real Estate,Inverse sector equity,Cross Asset,USD
+SCC,UltraShort Consumer Discretionary,UltraShort Cons Disc,Inverse sector equity,Cross Asset,USD
+SZK,UltraShort Consumer Staples,UltraShort Cons Staples,Inverse sector equity,Cross Asset,USD
+DUG,UltraShort Energy,UltraShort Energy,Inverse sector equity,Cross Asset,USD
+SKF,UltraShort Financials,UltraShort Financials,Inverse sector equity,Cross Asset,USD
+RXD,UltraShort Health Care,UltraShort Health Care,Inverse sector equity,Cross Asset,USD
+SIJ,UltraShort Industrials,UltraShort Industrials,Inverse sector equity,Cross Asset,USD
+SMN,UltraShort Materials,UltraShort Materials,Inverse sector equity,Cross Asset,USD
+BIS,UltraShort Nasdaq Biotechnology,Short Nasdaq Biotech,Inverse sector equity,Cross Asset,USD
+SRS,UltraShort Real Estate,UltraShort Real Estate,Inverse sector equity,Cross Asset,USD
+SSG,UltraShort Semiconductors,UltraShort Semis,Inverse sector equity,Cross Asset,USD
+REW,UltraShort Technology,UltraShort Technology,Inverse sector equity,Cross Asset,USD
+SDP,UltraShort Utilities,UltraShort Utilities,Inverse sector equity,Cross Asset,USD
+AAPD,Direxion Daily AAPL Bear 1X ETF,AAPL Bear 1X,Inverse single-stock equity,Cross Asset,USD
+AMDD,Direxion Daily AMD Bear 1X ETF,AMD Bear 1X,Inverse single-stock equity,Cross Asset,USD
+AMZD,Direxion Daily AMZN Bear 1X ETF,AMZN Bear 1X,Inverse single-stock equity,Cross Asset,USD
+AVS,Direxion Daily AVGO Bear 1X ETF,AVGO Bear 1X,Inverse single-stock equity,Cross Asset,USD
+CSCS,Direxion Daily CSCO Bear 1X ETF,CSCO Bear 1X,Inverse single-stock equity,Cross Asset,USD
+GGLS,Direxion Daily GOOGL Bear 1X ETF,GOOGL Bear 1X,Inverse single-stock equity,Cross Asset,USD
+METD,Direxion Daily META Bear 1X ETF,META Bear 1X,Inverse single-stock equity,Cross Asset,USD
+MSFD,Direxion Daily MSFT Bear 1X ETF,MSFT Bear 1X,Inverse single-stock equity,Cross Asset,USD
+MUD,Direxion Daily MU Bear 1X ETF,MU Bear 1X,Inverse single-stock equity,Cross Asset,USD
+NFXS,Direxion Daily NFLX Bear 1X ETF,NFLX Bear 1X,Inverse single-stock equity,Cross Asset,USD
+NVDD,Direxion Daily NVDA Bear 1X ETF,NVDA Bear 1X,Inverse single-stock equity,Cross Asset,USD
+ORCS,Direxion Daily ORCL Bear 1X ETF,ORCL Bear 1X,Inverse single-stock equity,Cross Asset,USD
+PALD,Direxion Daily PANW Bear 1X ETF,PANW Bear 1X,Inverse single-stock equity,Cross Asset,USD
+QCMD,Direxion Daily QCOM Bear 1X ETF,QCOM Bear 1X,Inverse single-stock equity,Cross Asset,USD
+TSLS,Direxion Daily TSLA Bear 1X ETF,TSLA Bear 1X,Inverse single-stock equity,Cross Asset,USD
+TSMZ,Direxion Daily TSM Bear 1X ETF,TSM Bear 1X,Inverse single-stock equity,Cross Asset,USD
+MIDU,Direxion Daily Mid Cap Bull 3X ETF,Mid Cap Bull 3X,Leveraged broad equity,Cross Asset,USD
+HIBL,Direxion Daily S&P 500® High Beta Bull 3X ETF,S&P 500 Hi Beta Bull 3X,Leveraged broad equity,Cross Asset,USD
+LOFF,Direxion Daily SpaceX Bull 2X ETF,SpaceX Bull 2X,Leveraged broad equity,Cross Asset,USD
+DDM,Ultra Dow30,Ultra Dow30,Leveraged broad equity,Cross Asset,USD
+MVV,Ultra MidCap400,Ultra MidCap400,Leveraged broad equity,Cross Asset,USD
+QLD,Ultra QQQ,Ultra QQQ,Leveraged broad equity,Cross Asset,USD
+EQQQ,Ultra QQQ Equal Weight,Ultra QQQ Equal Weight,Leveraged broad equity,Cross Asset,USD
+AGQ,Ultra Silver,Ultra Silver,Leveraged commodities,Cross Asset,USD
+BOIL,Ultra Bloomberg Natural Gas,Ultra Natural Gas,Leveraged commodities,Cross Asset,USD
+BTCU,Direxion Daily Bitcoin Bull 2X ETF,Bitcoin Bull 2X,Leveraged crypto,Cross Asset,USD
+EVMU,Direxion Daily Ether Bull 2X ETF,Ether Bull 2X,Leveraged crypto,Cross Asset,USD
+BITU,Ultra Bitcoin ETF,Ultra Bitcoin,Leveraged crypto,Cross Asset,USD
+ETHT,Ultra Ether ETF,Ultra Ether,Leveraged crypto,Cross Asset,USD
+EURL,Direxion Daily FTSE Europe Bull 3X ETF,FTSE Europe Bull 3X,Leveraged currencies,Cross Asset,USD
+CHAU,Direxion Daily CSI 300 China A Share Bull 2X ETF,CSI 300 China A Bull 2X,Leveraged international equity,Cross Asset,USD
+CWEB,Direxion Daily CSI China Internet Index Bull 2X ETF,China Internet Bull 2X,Leveraged international equity,Cross Asset,USD
+BRZU,Direxion Daily MSCI Brazil Bull 2X ETF,MSCI Brazil Bull 2X,Leveraged international equity,Cross Asset,USD
+EDC,Direxion Daily MSCI Emerging Markets Bull 3X ETF,MSCI EM Bull 3X,Leveraged international equity,Cross Asset,USD
+INDL,Direxion Daily MSCI India Bull 2X ETF,MSCI India Bull 2X,Leveraged international equity,Cross Asset,USD
+MEXX,Direxion Daily MSCI Mexico Bull 3X ETF,MSCI Mexico Bull 3X,Leveraged international equity,Cross Asset,USD
+KORU,Direxion Daily MSCI South Korea Bull 3X ETF,MSCI South Korea Bull 3X,Leveraged international equity,Cross Asset,USD
+EFO,Ultra MSCI EAFE,Ultra MSCI EAFE,Leveraged international equity,Cross Asset,USD
+EET,Ultra MSCI Emerging Markets,Ultra MSCI EM,Leveraged international equity,Cross Asset,USD
+EZJ,Ultra MSCI Japan,Ultra MSCI Japan,Leveraged international equity,Cross Asset,USD
+AIBU,Direxion Daily AI and Big Data Bull 2X ETF,AI and Big Data Bull 2X,Leveraged sector equity,Cross Asset,USD
+DFEN,Direxion Daily Aerospace & Defense Bull 3X ETF,Aero & Defense Bull 3X,Leveraged sector equity,Cross Asset,USD
+ERX,Direxion Daily Energy Bull 2X ETF,Energy Bull 2X,Leveraged sector equity,Cross Asset,USD
+FAS,Direxion Daily Financial Bull 3X ETF,Financial Bull 3X,Leveraged sector equity,Cross Asset,USD
+NUGT,Direxion Daily Gold Miners Index Bull 2X ETF,Gold Miners Bull 2X,Leveraged sector equity,Cross Asset,USD
+CURE,Direxion Daily Healthcare Bull 3X ETF,Healthcare Bull 3X,Leveraged sector equity,Cross Asset,USD
+NAIL,Direxion Daily Homebuilders & Supplies Bull 3X ETF,Homebuilders Bull 3X,Leveraged sector equity,Cross Asset,USD
+DUSL,Direxion Daily Industrials Bull 3X ETF,Industrials Bull 3X,Leveraged sector equity,Cross Asset,USD
+JNUG,Direxion Daily Junior Gold Miners Index Bull 2X ETF,Jr Gold Miners Bull 2X,Leveraged sector equity,Cross Asset,USD
+FNGG,Direxion Daily NYSE FANG+ Bull 2X ETF,NYSE FANG+ Bull 2X,Leveraged sector equity,Cross Asset,USD
+PILL,Direxion Daily Pharmaceutical & Medical Bull 3X ETF,Pharma & Medical Bull 3X,Leveraged sector equity,Cross Asset,USD
+DRN,Direxion Daily Real Estate Bull 3X ETF,Real Estate Bull 3X,Leveraged sector equity,Cross Asset,USD
+DPST,Direxion Daily Regional Banks Bull 3X ETF,Regional Banks Bull 3X,Leveraged sector equity,Cross Asset,USD
+LABU,Direxion Daily S&P Biotech Bull 3X ETF,S&P Biotech Bull 3X,Leveraged sector equity,Cross Asset,USD
+GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X ETF,Oil & Gas E&P Bull 2X,Leveraged sector equity,Cross Asset,USD
+LTL,Ultra Communication Services,Ultra Communication Svcs,Leveraged sector equity,Cross Asset,USD
+DIG,Ultra Energy,Ultra Energy,Leveraged sector equity,Cross Asset,USD
+BIB,Ultra Nasdaq Biotechnology,Ultra Nasdaq Biotech,Leveraged sector equity,Cross Asset,USD
+AAPU,Direxion Daily AAPL Bull 2X ETF,AAPL Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+ADBU,Direxion Daily ADBE Bull 2X ETF,ADBE Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+AMUU,Direxion Daily AMD Bull 2X ETF,AMD Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+AMZU,Direxion Daily AMZN Bull 2X ETF,AMZN Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+ASMU,Direxion Daily ASML Bull 2X ETF,ASML Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+AVL,Direxion Daily AVGO Bull 2X ETF,AVGO Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+BOEU,Direxion Daily BA Bull 2X ETF,BA Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+BABU,Direxion Daily BABA Bull 2X ETF,BABA Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+BRKU,Direxion Daily BRKB Bull 2X ETF,BRKB Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+CONX,Direxion Daily COIN Bull 2X ETF,COIN Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+CSCL,Direxion Daily CSCO Bull 2X ETF,CSCO Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+GGLL,Direxion Daily GOOGL Bull 2X ETF,GOOGL Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+HODU,Direxion Daily HOOD Bull 2X ETF,HOOD Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+LINT,Direxion Daily INTC Bull 2X ETF,INTC Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+ELIL,Direxion Daily LLY Bull 2X ETF,LLY Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+LMTL,Direxion Daily LMT Bull 2X ETF,LMT Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+METU,Direxion Daily META Bull 2X ETF,META Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+MRVU,Direxion Daily MRVL Bull 2X ETF,MRVL Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+MSFU,Direxion Daily MSFT Bull 2X ETF,MSFT Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+MUU,Direxion Daily MU Bull 2X ETF,MU Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+NFXL,Direxion Daily NFLX Bull 2X ETF,NFLX Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+NVDU,Direxion Daily NVDA Bull 2X ETF,NVDA Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+ORCU,Direxion Daily ORCL Bull 2X ETF,ORCL Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+PALU,Direxion Daily PANW Bull 2X ETF,PANW Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+PLTU,Direxion Daily PLTR Bull 2X ETF,PLTR Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+PYPU,Direxion Daily PYPL Bull 2X ETF,PYPL Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+QCMU,Direxion Daily QCOM Bull 2X ETF,QCOM Bull 2X,Leveraged single-stock equity,Cross Asset,USD
+COIA,Ultra COIN,Ultra COIN,Leveraged single-stock equity,Cross Asset,USD
+CRCA,Ultra CRCL,Ultra CRCL,Leveraged single-stock equity,Cross Asset,USD
+NVDB,Ultra NVDA,Ultra NVDA,Leveraged single-stock equity,Cross Asset,USD
+PLTA,Ultra PLTR,Ultra PLTR,Leveraged single-stock equity,Cross Asset,USD
+VIXM,ProShares VIX Mid-Term Futures ETF,VIX Mid-Term Futures,Long VIX futures,Cross Asset,USD
+VIXY,ProShares VIX Short-Term Futures ETF,VIX Short-Term Futures,Long VIX futures,Cross Asset,USD
+AOK,iShares Core 30/70 Conservative Allocation ETF,Core 30/70 Conservative,Multi-asset allocation,Cross Asset,USD
+AOM,iShares Core 40/60 Moderate Allocation ETF,Core 40/60 Moderate,Multi-asset allocation,Cross Asset,USD
+AOR,iShares Core 60/40 Balanced Allocation ETF,Core 60/40 Balanced,Multi-asset allocation,Cross Asset,USD
+AOA,iShares Core 80/20 Aggressive Allocation ETF,Core 80/20 Aggressive,Multi-asset allocation,Cross Asset,USD
+IYLD,iShares Morningstar Multi-Asset Income ETF,Multi-Asset Income,Multi-asset allocation,Cross Asset,USD
+GLD,SPDR Gold Shares,SPDR Gold Shares,Physical precious metals,Cross Asset,USD
+IAU,iShares Gold Trust,iShares Gold,Physical precious metals,Cross Asset,USD
+IAUM,iShares Gold Trust Micro,iShares Gold Trust Micro,Physical precious metals,Cross Asset,USD
+SLV,iShares Silver Trust,iShares Silver,Physical precious metals,Cross Asset,USD
+IBIT,iShares Bitcoin Trust ETF,iShares Bitcoin,Spot crypto,Cross Asset,USD
+ETHA,iShares Ethereum Trust ETF,iShares Ethereum,Spot crypto,Cross Asset,USD
+ETHB,iShares Staked Ethereum Trust ETF,iShares Staked Ethereum,Spot crypto,Cross Asset,USD
+QMOM,Alpha Architect US Momentum,US Momentum,Broader momentum,Factor,USD
+QGRO,American Century US Quality Growth,US Quality Growth,Broader momentum,Factor,USD
+VAMO,Cambria Value & Momentum,Cambria Value & Momentum,Broader momentum,Factor,USD
+PDP,Invesco DWA Momentum,Invesco DWA Momentum,Broader momentum,Factor,USD
+DWAS,Invesco DWA SmallCap Momentum,DWA SmallCap Momentum,Broader momentum,Factor,USD
+XMMO,Invesco S&P MidCap Momentum,S&P MidCap Momentum,Broader momentum,Factor,USD
+XSMO,Invesco S&P SmallCap Momentum,S&P SmallCap Momentum,Broader momentum,Factor,USD
+JMOM,JPMorgan US Momentum,JPMorgan US Momentum,Broader momentum,Factor,USD
+VFMO,Vanguard US Momentum Factor,US Momentum Factor,Broader momentum,Factor,USD
+JOET,Virtus Terranova US Quality Momentum,US Quality Momentum,Broader momentum,Factor,USD
+ABEQ,Absolute Select Value,Absolute Select Value,Core large-cap value,Factor,USD
+FLV,American Century Focused Large Value,Focused Large Value,Core large-cap value,Factor,USD
+FBCV,Fidelity Blue Chip Value,Fidelity Blue Chip Value,Core large-cap value,Factor,USD
+PWV,Invesco Large Cap Value,Invesco Large Cap Value,Core large-cap value,Factor,USD
+IUS,Invesco RAFI Strategic US,Invesco RAFI Strat US,Core large-cap value,Factor,USD
+NULV,Nuveen ESG Large-Cap Value,ESG Large-Cap Value,Core large-cap value,Factor,USD
+RAFE,PIMCO RAFI ESG US,PIMCO RAFI ESG US,Core large-cap value,Factor,USD
+VLU,SPDR S&P 1500 Value Tilt,SPDR S&P 1500 Value Tilt,Core large-cap value,Factor,USD
+SPYV,SPDR S&P 500 Value,SPDR S&P 500 Value,Core large-cap value,Factor,USD
+FNDB,Schwab Fundamental US Broad,Fundamental US Broad,Core large-cap value,Factor,USD
+SCHV,Schwab US Large-Cap Value,Schwab US Large Value,Core large-cap value,Factor,USD
+MGV,Vanguard Mega Cap Value,Vanguard Mega Cap Value,Core large-cap value,Factor,USD
+VONV,Vanguard Russell 1000 Value,R1000 Value (VONV),Core large-cap value,Factor,USD
+VOOV,Vanguard S&P 500 Value,Vanguard S&P 500 Value,Core large-cap value,Factor,USD
+VTV,Vanguard Value,Vanguard Value,Core large-cap value,Factor,USD
+AIVL,WisdomTree US AI Enhanced Value,US AI Enhanced Value,Core large-cap value,Factor,USD
+IUSV,iShares Core S&P US Value,Core S&P US Value,Core large-cap value,Factor,USD
+IWD,iShares Russell 1000 Value,R1000 Value (IWD),Core large-cap value,Factor,USD
+IWX,iShares Russell Top 200 Value,Russell Top 200 Value,Core large-cap value,Factor,USD
+IVE,iShares S&P 500 Value,iShares S&P 500 Value,Core large-cap value,Factor,USD
+ILCV,iShares Morningstar Value,Morningstar Value,Core large-cap value,Factor,USD
+FDMO,Fidelity Momentum Factor,Fidelity Momentum Factor,Large-cap momentum,Factor,USD
+SPMO,Invesco S&P 500 Momentum,Invesco S&P 500 Momentum,Large-cap momentum,Factor,USD
+QQQA,ProShares Nasdaq-100 Dorsey Wright Momentum,Nasdaq-100 DW Momentum,Large-cap momentum,Factor,USD
+MMTM,SPDR S&P 1500 Momentum Tilt,S&P 1500 Momentum Tilt,Large-cap momentum,Factor,USD
+MTUM,iShares MSCI USA Momentum,MSCI USA Momentum,Large-cap momentum,Factor,USD
+GARP,iShares MSCI USA Quality GARP,MSCI USA Quality GARP,Large-cap momentum,Factor,USD
+SPDV,AAM S&P 500 High Dividend Value,S&P 500 High Div Value,Mid-cap & multi-factor value,Factor,USD
+ZIG,Acquirers Fund,Acquirers,Mid-cap & multi-factor value,Factor,USD
+QVAL,Alpha Architect US Quantitative Value,US Quantitative Value,Mid-cap & multi-factor value,Factor,USD
+VALQ,American Century STOXX US Quality Value,STOXX US Quality Value,Mid-cap & multi-factor value,Factor,USD
+AVLV,Avantis US Large Cap Value,Avantis US Large Value,Mid-cap & multi-factor value,Factor,USD
+SYLD,Cambria Shareholder Yield,Shareholder Yield,Mid-cap & multi-factor value,Factor,USD
+REVS,Columbia Research Enhanced Value,Research Enhanced Value,Mid-cap & multi-factor value,Factor,USD
+DSTL,Distillate US Fundamental Stability & Value,US Stability & Value,Mid-cap & multi-factor value,Factor,USD
+FVAL,Fidelity Value Factor,Fidelity Value Factor,Mid-cap & multi-factor value,Factor,USD
+DDIV,First Trust Dorsey Wright Momentum & Dividend,DW Momentum & Dividend,Mid-cap & multi-factor value,Factor,USD
+DVLU,First Trust Dorsey Wright Momentum & Value,DW Momentum & Value,Mid-cap & multi-factor value,Factor,USD
+FTA,First Trust Large Cap Value AlphaDEX,Large Cap Value AlphaDEX,Mid-cap & multi-factor value,Factor,USD
+FNK,First Trust Mid Cap Value AlphaDEX,Mid Cap Value AlphaDEX,Mid-cap & multi-factor value,Factor,USD
+FAB,First Trust Multi Cap Value AlphaDEX,Multi Cap Value AlphaDEX,Mid-cap & multi-factor value,Factor,USD
+QLC,FlexShares US Quality Large Cap,US Quality Large Cap,Mid-cap & multi-factor value,Factor,USD
+QDIV,Global X S&P 500 Quality Dividend,S&P 500 Quality Div,Mid-cap & multi-factor value,Factor,USD
+PRF,Invesco FTSE RAFI US 1000,FTSE RAFI US 1000,Mid-cap & multi-factor value,Factor,USD
+SPGP,Invesco S&P 500 GARP,Invesco S&P 500 GARP,Mid-cap & multi-factor value,Factor,USD
+RPV,Invesco S&P 500 Pure Value,S&P 500 Pure Value,Mid-cap & multi-factor value,Factor,USD
+SPVM,Invesco S&P 500 Value with Momentum,S&P 500 Value Momentum,Mid-cap & multi-factor value,Factor,USD
+XMVM,Invesco S&P MidCap Value with Momentum,MidCap Value Momentum,Mid-cap & multi-factor value,Factor,USD
+JVAL,JPMorgan US Value Factor,JPMorgan US Value Factor,Mid-cap & multi-factor value,Factor,USD
+NUMV,Nuveen ESG Mid-Cap Value,Nuveen ESG Mid-Cap Value,Mid-cap & multi-factor value,Factor,USD
+COWZ,Pacer US Cash Cows 100,Pacer US Cash Cows 100,Mid-cap & multi-factor value,Factor,USD
+BUL,Pacer US Cash Cows Growth,US Cash Cows Growth,Mid-cap & multi-factor value,Factor,USD
+PY,Principal Value,Principal Value,Mid-cap & multi-factor value,Factor,USD
+PVAL,Putnam Focused Large Cap Value,Focused Large Cap Value,Mid-cap & multi-factor value,Factor,USD
+ONEO,SPDR Russell 1000 Momentum Focus,Russell 1000 Momentum,Mid-cap & multi-factor value,Factor,USD
+FNDX,Schwab Fundamental US Large,Fundamental US Large,Mid-cap & multi-factor value,Factor,USD
+ITAN,Sparkline Intangible Value,Intangible Value,Mid-cap & multi-factor value,Factor,USD
+VOE,Vanguard Mid-Cap Value,Vanguard Mid-Cap Value,Mid-cap & multi-factor value,Factor,USD
+VFVA,Vanguard US Value Factor,Vanguard US Value Factor,Mid-cap & multi-factor value,Factor,USD
+ULVM,VictoryShares US Value Momentum,US Value Momentum,Mid-cap & multi-factor value,Factor,USD
+WTV,WisdomTree US Value,WisdomTree US Value,Mid-cap & multi-factor value,Factor,USD
+QARP,Xtrackers Russell 1000 US QARP,Russell 1000 US QARP,Mid-cap & multi-factor value,Factor,USD
+VLUE,iShares MSCI USA Value Factor,MSCI USA Value Factor,Mid-cap & multi-factor value,Factor,USD
+IWS,iShares Russell Mid-Cap Value,Russell Mid-Cap Value,Mid-cap & multi-factor value,Factor,USD
+SHRY,First Trust Bloomberg Shareholder Yield,FT Shareholder Yield,Mid-cap & multi-factor value,Factor,USD
+MOAT,VanEck Morningstar Wide Moat,Wide Moat,Mid-cap & multi-factor value,Factor,USD
+IMCV,iShares Morningstar Mid-Cap Value,Morningstar Mid Value,Mid-cap & multi-factor value,Factor,USD
+OUSA,ALPS O'Shares US Quality Dividend,O'Shares US Quality Div,Quality,Factor,USD
+SXQG,ETC 6 Meridian Quality Growth,Meridian Quality Growth,Quality,Factor,USD
+FQAL,Fidelity Quality Factor,Fidelity Quality Factor,Quality,Factor,USD
+DVOL,First Trust Dorsey Wright Momentum & Low Vol,DW Momentum & Low Vol,Quality,Factor,USD
+QDF,FlexShares Quality Dividend,FlexShares Quality Div,Quality,Factor,USD
+QDEF,FlexShares Quality Dividend Defensive,Quality Div Defensive,Quality,Factor,USD
+SPHQ,Invesco S&P 500 Quality,Invesco S&P 500 Quality,Quality,Factor,USD
+JQUA,JPMorgan US Quality Factor,JPM US Quality Factor,Quality,Factor,USD
+DGRW,WisdomTree US Quality Dividend Growth,US Quality Div Growth,Quality,Factor,USD
+QUAL,iShares MSCI USA Quality Factor,MSCI USA Quality Factor,Quality,Factor,USD
+OUSM,ALPS O'Shares US Small-Cap Quality Dividend,US Small-Cap Quality Div,Small-cap value,Factor,USD
+AVUV,Avantis US Small Cap Value,Avantis US Small Value,Small-cap value,Factor,USD
+DFAT,Dimensional US Targeted Value,US Targeted Value,Small-cap value,Factor,USD
+FYT,First Trust Small Cap Value AlphaDEX,Small Cap Value AlphaDEX,Small-cap value,Factor,USD
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid,RAFI US 1500 Small-Mid,Small-cap value,Factor,USD
+GRPM,Invesco S&P MidCap 400 GARP,S&P MidCap 400 GARP,Small-cap value,Factor,USD
+RFV,Invesco S&P MidCap 400 Pure Value,MidCap 400 Pure Value,Small-cap value,Factor,USD
+XMHQ,Invesco S&P MidCap Quality,S&P MidCap Quality,Small-cap value,Factor,USD
+RZV,Invesco S&P SmallCap 600 Pure Value,SmallCap 600 Pure Value,Small-cap value,Factor,USD
+XSHQ,Invesco S&P SmallCap Quality,S&P SmallCap Quality,Small-cap value,Factor,USD
+XSVM,Invesco S&P SmallCap Value with Momentum,SmallCap Value Momentum,Small-cap value,Factor,USD
+OSCV,Opus Small Cap Value,Opus Small Cap Value,Small-cap value,Factor,USD
+CALF,Pacer US Small Cap Cash Cows 100,Small Cap Cash Cows 100,Small-cap value,Factor,USD
+DEEP,Roundhill Acquirers Deep Value,Acquirers Deep Value,Small-cap value,Factor,USD
+SQLV,Royce Quant Small-Cap Quality Value,Small-Cap Quality Value,Small-cap value,Factor,USD
+MDYV,SPDR S&P 400 Mid Cap Value,S&P 400 Mid Cap Value,Small-cap value,Factor,USD
+SLYV,SPDR S&P 600 Small Cap Value,S&P 600 Small Cap Value,Small-cap value,Factor,USD
+FNDA,Schwab Fundamental US Small,Fundamental US Small,Small-cap value,Factor,USD
+VTWV,Vanguard Russell 2000 Value,R2000 Value (VTWV),Small-cap value,Factor,USD
+IVOV,Vanguard S&P Mid-Cap 400 Value,S&P 400 Value (IVOV),Small-cap value,Factor,USD
+VIOV,Vanguard S&P Small-Cap 600 Value,S&P 600 Value (VIOV),Small-cap value,Factor,USD
+VBR,Vanguard Small-Cap Value,Vanguard Small-Cap Value,Small-cap value,Factor,USD
+VFQY,Vanguard US Quality Factor,US Quality Factor,Small-cap value,Factor,USD
+USVM,VictoryShares US Small Mid Cap Value Momentum,US SMID Value Momentum,Small-cap value,Factor,USD
+DGRS,WisdomTree US SmallCap Quality Dividend Growth,SmallCap Qual Div Growth,Small-cap value,Factor,USD
+IWN,iShares Russell 2000 Value,R2000 Value (IWN),Small-cap value,Factor,USD
+IJJ,iShares S&P Mid-Cap 400 Value,S&P 400 Value (IJJ),Small-cap value,Factor,USD
+IJS,iShares S&P Small-Cap 600 Value,S&P 600 Value (IJS),Small-cap value,Factor,USD
+SVAL,iShares US Small Cap Value Factor,US Small Value Factor,Small-cap value,Factor,USD
+ISCV,iShares Morningstar Small-Cap Value,Morningstar Small Value,Small-cap value,Factor,USD
+ILTB,iShares Core 10+ Year USD Bond ETF,Core 10+ Year USD Bond,Aggregate and flexible bonds,Fixed Income,USD
+AGG,iShares Core U.S. Aggregate Bond ETF,Core U.S. Aggregate Bond,Aggregate and flexible bonds,Fixed Income,USD
+IUSB,iShares Core Universal USD Bond ETF,Core Universal USD Bond,Aggregate and flexible bonds,Fixed Income,USD
+BINC,iShares Flexible Income Active ETF,Flexible Income Active,Aggregate and flexible bonds,Fixed Income,USD
+BTOT,iShares Total USD Fixed Income Market ETF,Total USD Fixed Income,Aggregate and flexible bonds,Fixed Income,USD
+HYGW,iShares HYG Premium Income+ ETF,HYG Premium Income+,Bond option income,Fixed Income,USD
+LQDW,iShares LQD Premium Income+ ETF,LQD Premium Income+,Bond option income,Fixed Income,USD
+TLTW,iShares TLT Premium Income+ ETF,TLT Premium Income+,Bond option income,Fixed Income,USD
+SHYG,iShares 0-5 Year High Yield Corporate Bond ETF,0-5Y High Yield Corp,High yield and floating credit,Fixed Income,USD
+USHY,iShares Broad USD High Yield Corporate Bond ETF,Broad USD High Yield,High yield and floating credit,Fixed Income,USD
+FALN,iShares Fallen Angels USD Bond ETF,Fallen Angels USD Bond,High yield and floating credit,Fixed Income,USD
+FLOT,iShares Floating Rate Bond ETF,Floating Rate Bond,High yield and floating credit,Fixed Income,USD
+HYDB,iShares High Yield Systematic Bond ETF,High Yield Systematic,High yield and floating credit,Fixed Income,USD
+NEAR,iShares Short Duration Bond Active ETF,Short Duration Active,High yield and floating credit,Fixed Income,USD
+ICSH,iShares Ultra Short Duration Bond Active ETF,Ultra Short Duration,High yield and floating credit,Fixed Income,USD
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,iBoxx $ High Yield,High yield and floating credit,Fixed Income,USD
+STIP,iShares 0-5 Year TIPS Bond ETF,0-5 Year TIPS Bond,Inflation-linked bonds,Fixed Income,USD
+TIP,iShares TIPS Bond ETF,iShares TIPS Bond,Inflation-linked bonds,Fixed Income,USD
+IAGG,iShares Core International Aggregate Bond ETF,Core Intl Aggregate Bond,International and emerging bonds,Fixed Income,USD
+IGOV,iShares International Treasury Bond ETF,iShares Intl Tsy Bond,International and emerging bonds,Fixed Income,USD
+LEMB,iShares J.P. Morgan EM Local Currency Bond ETF,EM Local Currency Bond,International and emerging bonds,Fixed Income,USD
+EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,J.P. Morgan USD EM Bond,International and emerging bonds,Fixed Income,USD
+SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,0-5 Year IG Corp Bond,Investment grade credit,Fixed Income,USD
+IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF,1-5 Year IG Corp Bond,Investment grade credit,Fixed Income,USD
+IGLB,iShares 10+ Year Investment Grade Corporate Bond ETF,10+ Year IG Corp Bond,Investment grade credit,Fixed Income,USD
+IGIB,iShares 5-10 Year Investment Grade Corporate Bond ETF,5-10 Year IG Corp Bond,Investment grade credit,Fixed Income,USD
+QLTA,iShares Aaa - A Rated Corporate Bond ETF,Aaa - A Rated Corp Bond,Investment grade credit,Fixed Income,USD
+USIG,iShares Broad USD Investment Grade Corporate Bond ETF,Broad USD IG Corp Bond,Investment grade credit,Fixed Income,USD
+SUSC,iShares ESG Aware USD Corporate Bond ETF,ESG Aware USD Corp Bond,Investment grade credit,Fixed Income,USD
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,iBoxx $ IG Corp Bond,Investment grade credit,Fixed Income,USD
+CMBS,iShares CMBS ETF,iShares CMBS,Mortgage and securitized bonds,Fixed Income,USD
+GNMA,iShares GNMA Bond ETF,iShares GNMA Bond,Mortgage and securitized bonds,Fixed Income,USD
+MBB,iShares MBS ETF,iShares MBS,Mortgage and securitized bonds,Fixed Income,USD
+SECU,iShares Securitized Income Active ETF,Securitized Income,Mortgage and securitized bonds,Fixed Income,USD
+CMF,iShares California Muni Bond ETF,California Muni Bond,Municipal bonds,Fixed Income,USD
+INMU,iShares Intermediate Muni Income Active ETF,Intermediate Muni Income,Municipal bonds,Fixed Income,USD
+MUB,iShares National Muni Bond ETF,National Muni Bond,Municipal bonds,Fixed Income,USD
+NYF,iShares New York Muni Bond ETF,New York Muni Bond,Municipal bonds,Fixed Income,USD
+MEAR,iShares Short Maturity Municipal Bond Active ETF,Short Maturity Muni Bond,Municipal bonds,Fixed Income,USD
+SUB,iShares Short-Term National Muni Bond ETF,Short-Term National Muni,Municipal bonds,Fixed Income,USD
+PFF,iShares Preferred and Income Securities ETF,Preferred & Income Sec,Preferred securities,Fixed Income,USD
+SGOV,iShares 0-3 Month Treasury Bond ETF,iShares 0-3 Mo Tsy Bond,Treasury and cash,Fixed Income,USD
+SHV,iShares 0–1 Year Treasury Bond ETF,0–1 Year Tsy Bond,Treasury and cash,Fixed Income,USD
+SHY,iShares 1-3 Year Treasury Bond ETF,1-3 Year Tsy Bond,Treasury and cash,Fixed Income,USD
+TLH,iShares 10-20 Year Treasury Bond ETF,10-20 Year Tsy Bond,Treasury and cash,Fixed Income,USD
+TLT,iShares 20+ Year Treasury Bond ETF,20+ Year Tsy Bond,Treasury and cash,Fixed Income,USD
+IEI,iShares 3-7 Year Treasury Bond ETF,3-7 Year Tsy Bond,Treasury and cash,Fixed Income,USD
+IEF,iShares 7-10 Year Treasury Bond ETF,7-10 Year Tsy Bond,Treasury and cash,Fixed Income,USD
+TFLO,iShares Treasury Floating Rate Bond ETF,Tsy Floating Rate Bond,Treasury and cash,Fixed Income,USD
+GOVT,iShares U.S. Treasury Bond ETF,iShares U.S. Tsy Bond,Treasury and cash,Fixed Income,USD
+FXI,iShares China Large-Cap ETF,iShares China Large-Cap,Country equity,Global Equity,USD
+INDY,iShares India 50 ETF,iShares India 50,Country equity,Global Equity,USD
+EWA,iShares MSCI Australia ETF,iShares MSCI Australia,Country equity,Global Equity,USD
+EWO,iShares MSCI Austria ETF,iShares MSCI Austria,Country equity,Global Equity,USD
+EWK,iShares MSCI Belgium ETF,iShares MSCI Belgium,Country equity,Global Equity,USD
+EWZ,iShares MSCI Brazil ETF,iShares MSCI Brazil,Country equity,Global Equity,USD
+EWC,iShares MSCI Canada ETF,iShares MSCI Canada,Country equity,Global Equity,USD
+ECH,iShares MSCI Chile ETF,iShares MSCI Chile,Country equity,Global Equity,USD
+CNYA,iShares MSCI China A ETF,iShares MSCI China A,Country equity,Global Equity,USD
+MCHI,iShares MSCI China ETF,iShares MSCI China,Country equity,Global Equity,USD
+EDEN,iShares MSCI Denmark ETF,iShares MSCI Denmark,Country equity,Global Equity,USD
+EFNL,iShares MSCI Finland ETF,iShares MSCI Finland,Country equity,Global Equity,USD
+EWQ,iShares MSCI France ETF,iShares MSCI France,Country equity,Global Equity,USD
+EWG,iShares MSCI Germany ETF,iShares MSCI Germany,Country equity,Global Equity,USD
+EWH,iShares MSCI Hong Kong ETF,iShares MSCI Hong Kong,Country equity,Global Equity,USD
+INDA,iShares MSCI India ETF,iShares MSCI India,Country equity,Global Equity,USD
+SMIN,iShares MSCI India Small-Cap ETF,MSCI India Small-Cap,Country equity,Global Equity,USD
+EIDO,iShares MSCI Indonesia ETF,iShares MSCI Indonesia,Country equity,Global Equity,USD
+EIRL,iShares MSCI Ireland ETF,iShares MSCI Ireland,Country equity,Global Equity,USD
+EIS,iShares MSCI Israel ETF,iShares MSCI Israel,Country equity,Global Equity,USD
+EWI,iShares MSCI Italy ETF,iShares MSCI Italy,Country equity,Global Equity,USD
+EWJ,iShares MSCI Japan ETF,iShares MSCI Japan,Country equity,Global Equity,USD
+EWM,iShares MSCI Malaysia ETF,iShares MSCI Malaysia,Country equity,Global Equity,USD
+EWW,iShares MSCI Mexico ETF,iShares MSCI Mexico,Country equity,Global Equity,USD
+EWN,iShares MSCI Netherlands ETF,iShares MSCI Netherlands,Country equity,Global Equity,USD
+ENOR,iShares MSCI Norway ETF,iShares MSCI Norway,Country equity,Global Equity,USD
+EPU,iShares MSCI Peru and Global Exposure ETF,MSCI Peru & Global,Country equity,Global Equity,USD
+EPHE,iShares MSCI Philippines ETF,iShares MSCI Philippines,Country equity,Global Equity,USD
+QAT,iShares MSCI Qatar ETF,iShares MSCI Qatar,Country equity,Global Equity,USD
+KSA,iShares MSCI Saudi Arabia ETF,MSCI Saudi Arabia,Country equity,Global Equity,USD
+EWS,iShares MSCI Singapore ETF,iShares MSCI Singapore,Country equity,Global Equity,USD
+EZA,iShares MSCI South Africa ETF,MSCI South Africa,Country equity,Global Equity,USD
+EWY,iShares MSCI South Korea ETF,iShares MSCI South Korea,Country equity,Global Equity,USD
+EWP,iShares MSCI Spain ETF,iShares MSCI Spain,Country equity,Global Equity,USD
+EWD,iShares MSCI Sweden ETF,iShares MSCI Sweden,Country equity,Global Equity,USD
+EWL,iShares MSCI Switzerland ETF,iShares MSCI Switzerland,Country equity,Global Equity,USD
+EWT,iShares MSCI Taiwan ETF,iShares MSCI Taiwan,Country equity,Global Equity,USD
+THD,iShares MSCI Thailand ETF,iShares MSCI Thailand,Country equity,Global Equity,USD
+TUR,iShares MSCI Turkey ETF,iShares MSCI Turkey,Country equity,Global Equity,USD
+UAE,iShares MSCI UAE ETF,iShares MSCI UAE,Country equity,Global Equity,USD
+EWU,iShares MSCI United Kingdom ETF,MSCI United Kingdom,Country equity,Global Equity,USD
+IEMG,iShares Core MSCI Emerging Markets ETF,iShares Core MSCI EM,Emerging market equity,Global Equity,USD
+DVYE,iShares Emerging Markets Dividend ETF,iShares EM Dividend,Emerging market equity,Global Equity,USD
+EMGF,iShares Emerging Markets Equity Factor ETF,iShares EM Equity Factor,Emerging market equity,Global Equity,USD
+EEM,iShares MSCI Emerging Markets ETF,iShares MSCI EM,Emerging market equity,Global Equity,USD
+EEMV,iShares MSCI Emerging Markets Min Vol Factor ETF,MSCI EM Min Vol Factor,Emerging market equity,Global Equity,USD
+EEMS,iShares MSCI Emerging Markets Small-Cap ETF,MSCI EM Small-Cap,Emerging market equity,Global Equity,USD
+EMXC,iShares MSCI Emerging Markets ex China ETF,iShares MSCI EM ex China,Emerging market equity,Global Equity,USD
+IVVW,iShares IVV Premium Income+ ETF,IVV Premium Income+,Equity option income,Global Equity,USD
+IWMW,iShares IWM Premium Income+ ETF,IWM Premium Income+,Equity option income,Global Equity,USD
+BALQ,iShares Nasdaq Premium Income Active ETF,Nasdaq Premium Income,Equity option income,Global Equity,USD
+BALI,iShares U.S. Large Cap Premium Income Active ETF,US Large Cap Prem Income,Equity option income,Global Equity,USD
+IBB,iShares Biotechnology ETF,iShares Biotechnology,Equity sectors and industries,Global Equity,USD
+IGV,iShares Expanded Tech-Software Sector ETF,Expanded Tech-Software,Equity sectors and industries,Global Equity,USD
+IXP,iShares Global Comm Services ETF,Global Comm Services,Equity sectors and industries,Global Equity,USD
+RXI,iShares Global Consumer Discretionary ETF,Global Cons Disc,Equity sectors and industries,Global Equity,USD
+KXI,iShares Global Consumer Staples ETF,Global Consumer Staples,Equity sectors and industries,Global Equity,USD
+IXC,iShares Global Energy ETF,iShares Global Energy,Equity sectors and industries,Global Equity,USD
+IXG,iShares Global Financials ETF,Global Financials,Equity sectors and industries,Global Equity,USD
+IXJ,iShares Global Healthcare ETF,Global Healthcare,Equity sectors and industries,Global Equity,USD
+EXI,iShares Global Industrials ETF,Global Industrials,Equity sectors and industries,Global Equity,USD
+MXI,iShares Global Materials ETF,iShares Global Materials,Equity sectors and industries,Global Equity,USD
+IXN,iShares Global Tech ETF,iShares Global Tech,Equity sectors and industries,Global Equity,USD
+JXI,iShares Global Utilities ETF,iShares Global Utilities,Equity sectors and industries,Global Equity,USD
+SOXX,iShares Semiconductor ETF,iShares Semiconductor,Equity sectors and industries,Global Equity,USD
+IYM,iShares U.S. Basic Materials ETF,U.S. Basic Materials,Equity sectors and industries,Global Equity,USD
+IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,US Broker-Dealers & Exch,Equity sectors and industries,Global Equity,USD
+IYC,iShares U.S. Consumer Discretionary ETF,US Cons Disc,Equity sectors and industries,Global Equity,USD
+IYK,iShares U.S. Consumer Staples ETF,U.S. Consumer Staples,Equity sectors and industries,Global Equity,USD
+IYE,iShares U.S. Energy ETF,iShares U.S. Energy,Equity sectors and industries,Global Equity,USD
+IYG,iShares U.S. Financial Services ETF,U.S. Financial Services,Equity sectors and industries,Global Equity,USD
+IYF,iShares U.S. Financials ETF,iShares U.S. Financials,Equity sectors and industries,Global Equity,USD
+IYH,iShares U.S. Healthcare ETF,iShares U.S. Healthcare,Equity sectors and industries,Global Equity,USD
+IHF,iShares U.S. Healthcare Providers ETF,US Healthcare Providers,Equity sectors and industries,Global Equity,USD
+ITB,iShares U.S. Home Construction ETF,U.S. Home Construction,Equity sectors and industries,Global Equity,USD
+IYJ,iShares U.S. Industrials ETF,iShares U.S. Industrials,Equity sectors and industries,Global Equity,USD
+IAK,iShares U.S. Insurance ETF,iShares U.S. Insurance,Equity sectors and industries,Global Equity,USD
+IHI,iShares U.S. Medical Devices ETF,U.S. Medical Devices,Equity sectors and industries,Global Equity,USD
+IEO,iShares U.S. Oil & Gas Exploration & Production ETF,US Oil & Gas E&P,Equity sectors and industries,Global Equity,USD
+IEZ,iShares U.S. Oil Equipment & Services ETF,US Oil Equip & Services,Equity sectors and industries,Global Equity,USD
+IHE,iShares U.S. Pharmaceuticals ETF,iShares U.S. Pharma,Equity sectors and industries,Global Equity,USD
+IAT,iShares U.S. Regional Banks ETF,U.S. Regional Banks,Equity sectors and industries,Global Equity,USD
+IYW,iShares U.S. Technology ETF,iShares U.S. Technology,Equity sectors and industries,Global Equity,USD
+IYZ,iShares U.S. Telecommunications ETF,U.S. Telecommunications,Equity sectors and industries,Global Equity,USD
+IYT,iShares U.S. Transportation ETF,U.S. Transportation,Equity sectors and industries,Global Equity,USD
+IDU,iShares U.S. Utilities ETF,iShares U.S. Utilities,Equity sectors and industries,Global Equity,USD
+IEFA,iShares Core MSCI EAFE ETF,iShares Core MSCI EAFE,Global and developed equity,Global Equity,USD
+IDEV,iShares Core MSCI International Developed Markets ETF,Core MSCI Intl Developed,Global and developed equity,Global Equity,USD
+IXUS,iShares Core MSCI Total International Stock ETF,Core MSCI Total Intl,Global and developed equity,Global Equity,USD
+IEV,iShares Europe ETF,iShares Europe,Global and developed equity,Global Equity,USD
+ACWI,iShares MSCI ACWI ETF,iShares MSCI ACWI,Global and developed equity,Global Equity,USD
+ACWX,iShares MSCI ACWI ex U.S. ETF,MSCI ACWI ex U.S.,Global and developed equity,Global Equity,USD
+EFA,iShares MSCI EAFE ETF,iShares MSCI EAFE,Global and developed equity,Global Equity,USD
+SCZ,iShares MSCI EAFE Small-Cap ETF,MSCI EAFE Small-Cap,Global and developed equity,Global Equity,USD
+URTH,iShares MSCI World ETF,iShares MSCI World,Global and developed equity,Global Equity,USD
+EMIF,iShares Emerging Markets Infrastructure ETF,EM Infrastructure,Infrastructure,Global Equity,USD
+IGF,iShares Global Infrastructure ETF,Global Infrastructure,Infrastructure,Global Equity,USD
+IFRA,iShares U.S. Infrastructure ETF,U.S. Infrastructure,Infrastructure,Global Equity,USD
+IGRO,iShares International Dividend Growth ETF,iShares Intl Div Growth,International equity styles,Global Equity,USD
+IDV,iShares International Select Dividend ETF,iShares Intl Select Div,International equity styles,Global Equity,USD
+ISCF,iShares International Small-Cap Equity Factor ETF,Intl Small-Cap Factor,International equity styles,Global Equity,USD
+EFAV,iShares MSCI EAFE Min Vol Factor ETF,MSCI EAFE Min Vol Factor,International equity styles,Global Equity,USD
+IMTM,iShares MSCI Intl Momentum Factor ETF,MSCI Intl Momentum,International equity styles,Global Equity,USD
+IQLT,iShares MSCI Intl Quality Factor ETF,MSCI Intl Quality Factor,International equity styles,Global Equity,USD
+IVLU,iShares MSCI Intl Value Factor ETF,MSCI Intl Value Factor,International equity styles,Global Equity,USD
+REET,iShares Global REIT ETF,iShares Global REIT,Listed real estate,Global Equity,USD
+IFGL,iShares International Developed Real Estate ETF,Intl Dev Real Estate,Listed real estate,Global Equity,USD
+REZ,iShares Residential and Multisector Real Estate ETF,Residential Multisector,Listed real estate,Global Equity,USD
+IYR,iShares U.S. Real Estate ETF,iShares U.S. Real Estate,Listed real estate,Global Equity,USD
+IPAC,iShares Core MSCI Pacific ETF,Core MSCI Pacific,Regional equity,Global Equity,USD
+ILF,iShares Latin America 40 ETF,iShares Latin America 40,Regional equity,Global Equity,USD
+AAXJ,iShares MSCI All Country Asia ex Japan ETF,MSCI AC Asia ex Japan,Regional equity,Global Equity,USD
+EFG,iShares MSCI EAFE Growth ETF,iShares MSCI EAFE Growth,Regional equity,Global Equity,USD
+EEMA,iShares MSCI Emerging Markets Asia ETF,iShares MSCI EM Asia,Regional equity,Global Equity,USD
+EZU,iShares MSCI Eurozone ETF,iShares MSCI Eurozone,Regional equity,Global Equity,USD
+EPP,iShares MSCI Pacific ex Japan ETF,MSCI Pacific ex Japan,Regional equity,Global Equity,USD
+WOOD,iShares Global Timber & Forestry ETF,Global Timber & Forestry,Resource producer equities,Global Equity,USD
+VEGI,iShares MSCI Agriculture Producers ETF,Agriculture Producers,Resource producer equities,Global Equity,USD
+RING,iShares MSCI Global Gold Miners ETF,MSCI Global Gold Miners,Resource producer equities,Global Equity,USD
+PICK,iShares MSCI Global Metals & Mining Producers ETF,Global Metals & Mining,Resource producer equities,Global Equity,USD
+SLVP,iShares MSCI Global Silver and Metals Miners ETF,Silver & Metals Miners,Resource producer equities,Global Equity,USD
+SPY,SPDR S&P 500,SPDR S&P 500,US broad equity,Global Equity,USD
+IVV,iShares Core S&P 500 ETF,iShares Core S&P 500,US broad equity,Global Equity,USD
+ITOT,iShares Core S&P Total U.S. Stock Market ETF,Core S&P Total US Stock,US broad equity,Global Equity,USD
+IWB,iShares Russell 1000 ETF,iShares Russell 1000,US broad equity,Global Equity,USD
+IWV,iShares Russell 3000 ETF,iShares Russell 3000,US broad equity,Global Equity,USD
+IWL,iShares Russell Top 200 ETF,iShares Russell Top 200,US broad equity,Global Equity,USD
+OEF,iShares S&P 100 ETF,iShares S&P 100,US broad equity,Global Equity,USD
+DGRO,iShares Core Dividend Growth ETF,iShares Core Div Growth,US dividend and low volatility,Global Equity,USD
+HDV,iShares Core High Dividend ETF,iShares Core High Div,US dividend and low volatility,Global Equity,USD
+USMV,iShares MSCI USA Min Vol Factor ETF,MSCI USA Min Vol Factor,US dividend and low volatility,Global Equity,USD
+DVY,iShares Select Dividend ETF,iShares Select Dividend,US dividend and low volatility,Global Equity,USD
+IJH,iShares Core S&P Mid-Cap ETF,iShares Core S&P Mid-Cap,US mid and small equity,Global Equity,USD
+IJR,iShares Core S&P Small-Cap ETF,Core S&P Small-Cap,US mid and small equity,Global Equity,USD
+IWC,iShares Micro-Cap ETF,iShares Micro-Cap,US mid and small equity,Global Equity,USD
+IWM,iShares Russell 2000 ETF,iShares Russell 2000,US mid and small equity,Global Equity,USD
+SMMD,iShares Russell 2500 ETF,iShares Russell 2500,US mid and small equity,Global Equity,USD
+IWR,iShares Russell Mid-Cap ETF,iShares Russell Mid-Cap,US mid and small equity,Global Equity,USD
+SMLF,iShares U.S. Small-Cap Equity Factor ETF,US Small Cap Factor,US mid and small equity,Global Equity,USD

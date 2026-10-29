@@ -1,0 +1,36 @@
+# European example project. Prices are whatever var/prices.csv holds (sample = SYNTHETIC).
+[project]
+title = "ETF ARCADE EU"
+subtitle = "UCITS mirror"
+currency = "EUR"          # label only: closes stay in each fund's listing currency, no FX conversion
+universe_label = "UCITS ETFs"
+
+# Benchmarks: an ordered list, the first is the default; the page has a switch. Every reference-dependent
+# number is stored once per benchmark id. Tickers were checked against Yahoo Finance with yfinance (price
+# history returned): EUNL.DE iShares Core MSCI World (Acc), EUNH.DE iShares Core Euro Govt Bond (Dist).
+# EUNL.DE is also a universe row, so its series is shared with the universe; EUNH.DE is not, so `fetch`
+# downloads it as an extra ticker (slice 4) and `sample` generates it.
+[[benchmarks]]
+id = "EUNL"
+label = "MSCI World (iShares Core)"
+components = { "EUNL.DE" = 1.0 }
+
+[[benchmarks]]
+id = "EUNH"
+label = "Euro Govt Bond (iShares Core)"
+components = { "EUNH.DE" = 1.0 }
+
+[[benchmarks]]
+id = "BLEND_6040"
+label = "60/40 World / Euro Govt"
+components = { "EUNL.DE" = 0.6, "EUNH.DE" = 0.4 }
+
+# [cash] is deliberately NOT set. A EUR short-rate proxy needs a yield series (kind = "annual_yield_pct"),
+# and Yahoo Finance has no clean EUR overnight-rate (EUR STR) yield series: the nearest, XEON.DE (Xtrackers II
+# EUR Overnight Rate Swap, 1C), is a total-return PRICE series, not a yield, and "^IRX" is the US 13-week bill.
+# Without [cash], cash-dependent metrics (Sharpe) are null with reason "cash_missing"; never zero-filled.
+# To enable one later:
+# [cash]
+# ticker = "<EUR yield series ticker>"
+# label = "EUR short rate"
+# kind = "annual_yield_pct"

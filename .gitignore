@@ -1,0 +1,12 @@
+var/
+web/data.js
+web/project.css
+examples/*/var/
+web/series/
+*.tmp
+__pycache__/
+*.egg-info
+.venv/
+out.html
+shot.png
+*.png

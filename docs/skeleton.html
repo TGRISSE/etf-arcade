@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ETF Arcade skeleton</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600&amp;family=JetBrains+Mono:wght@400;600&amp;family=Orbitron:wght@600;700;800&amp;display=swap">
+<link rel="stylesheet" href="../web/theme.css">
+</head>
+<body>
+<!-- BLANK example page: the visual reference for the patterns. It links ../web/theme.css only, holds no data and no script, and opens standalone from disk. Rows and numbers are placeholders. -->
+<div class="wrap">
+  <header class="top">
+    <h1 class="brand">ETF Arcade</h1>
+    <p class="tagline">Skeleton: layout patterns only</p>
+  </header>
+
+  <nav class="tabs" role="tablist" aria-label="Sections">
+    <button type="button" role="tab" aria-selected="true">Active tab</button>
+    <button type="button" role="tab" aria-selected="false">Other tab</button>
+    <button type="button" role="tab" aria-selected="false">Another tab</button>
+  </nav>
+
+  <!-- Pattern 1: one full-width analytical panel, with every slot a panel can hold. -->
+  <div class="row">
+    <section class="panel">
+      <p class="kicker">Kicker</p>
+      <h2>Panel title</h2>
+      <ul class="legend">
+        <li><i class="sw g1"></i>Series one</li>
+        <li><i class="sw g2"></i>Series two</li>
+      </ul>
+      <div class="chart-area"></div>
+      <p class="footnote">Footnote: row count, as-of date, source, and any caveat.</p>
+    </section>
+  </div>
+
+  <!-- Pattern 2: two panels in a row; they stack to one per row below 900px. Never more than two. -->
+  <div class="row two">
+    <section class="panel">
+      <p class="kicker">Kicker</p>
+      <h2>Left panel</h2>
+      <div class="empty">
+        <strong>Empty state</strong>
+        <span>Nothing to show for this selection. Say why and what to do next.</span>
+      </div>
+    </section>
+    <section class="panel">
+      <p class="kicker">Kicker</p>
+      <h2>Right panel</h2>
+      <div class="placeholder">
+        <strong>Not built yet &mdash; slice N</strong>
+        <span>Use this for a tab that is planned but not implemented.</span>
+      </div>
+    </section>
+  </div>
+
+  <!-- Pattern 3: controls line and a data table (the Screener look). Static rows, no script. -->
+  <div class="row">
+    <section class="panel">
+      <p class="kicker">One row per fund</p>
+      <h2>Table panel</h2>
+      <div class="controls">
+        <input type="search" placeholder="Search ticker, name, group" aria-label="Search funds">
+        <select aria-label="Group"><option>All groups</option></select>
+      </div>
+      <div class="scroll">
+        <table class="data">
+          <thead><tr>
+            <th class="first" scope="col"><button type="button">Fund</button></th>
+            <th class="num" scope="col" aria-sort="descending"><button type="button">3M</button></th>
+            <th class="num" scope="col"><button type="button">Vol 1Y</button></th>
+            <th scope="col"><button type="button">Status</button></th>
+          </tr></thead>
+          <tbody>
+            <tr tabindex="0"><td class="first">Alpha Fund <small>AAA</small></td><td class="num pos">+4.2%</td><td class="num">12.3%</td><td><span class="pill ok">ok</span></td></tr>
+            <tr tabindex="0"><td class="first">Beta Fund <small>BBB</small></td><td class="num neg">&minus;1.5%</td><td class="num">9.8%</td><td><span class="pill stale">stale</span></td></tr>
+            <tr tabindex="0" class="sel"><td class="first">Gamma Fund <small>CCC</small></td><td class="num nil" title="Reason shown on hover">&mdash;</td><td class="num nil">&mdash;</td><td><span class="pill no_data">no data</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="footnote">3 of 3 funds &middot; as of 26 Dec 2025 &middot; source: synthetic</p>
+    </section>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+etf-arcade
+Copyright 2026 etf-arcade contributors
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Fonts (Orbitron, Chakra Petch, JetBrains Mono) are loaded at runtime from
+Google Fonts under the SIL Open Font License 1.1. They are not bundled.
+Without network access the dashboard falls back to system fonts.
